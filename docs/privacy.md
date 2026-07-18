@@ -35,13 +35,13 @@
 
 ---
 
-* 🌐 **[FilterLists](https://filterlists.com/)** - Filter / Host List Directory
-* ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - Query Parameter Cleaning Rules / Use w/ AdGuard URL Tracking Protection
-* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** / [2](https://gitlab.com/hagezi/mirror) - Blocklist Collection / Use Mini Editions / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
-* [blacklist](https://github.com/anudeepND/blacklist) - Blocklist Collection / [Whitelist Note](https://github.com/anudeepND/blacklist#common-issues)
-* [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist) - Unsafe Sites Filter
-* [AI uBlock Blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Blocks AI Generated Sites
-* [⁠Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - Removes AI Imagery from Search Engines
+* 🌐 **[FilterLists](https://filterlists.com/)** - 筛选/主机列表目录
+* ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - 查询参数清理规则 / 与 AdGuard URL 跟踪保护配合使用
+* ⭐ **[Hagezi Blocklists](https://github.com/hagezi/dns-blocklists)** / [2](https://gitlab.com/hagezi/mirror) - 屏蔽列表合集 / 使用迷你版 / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hagezi.md)
+* [blacklist](https://github.com/anudeepND/blacklist)[黑名单](https://github.com/anudeepND/blacklist) - 阻止列表集合 / [Whitelist Note](https://github.com/anudeepND/blacklist#common-issues)[白名单说明](https://github.com/anudeepND/blacklist#common-issues)
+* [FMHY 过滤器列表](https://github.com/fmhy/FMHYFilterlist) - 不安全网站过滤器
+* [AI uBlock ](https://github.com/alvi-se/ai-ublock-blacklist)[黑名单](https://github.com/alvi-se/ai-ublock-blacklist) - 屏蔽 AI 生成的网站
+* [⁠Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) [大型人工智能屏蔽列表](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)- 从搜索引擎中移除人工智能图像
 
 ---
 
@@ -51,27 +51,27 @@
 
 ---
 
-* 🌐 **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS Provider Index
-* ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
-* ⭐ **[Pi-Hole](https://pi-hole.net/)** - Self-Hosted DNS Adblocking / [X](https://x.com/The_Pi_Hole) / [Subreddit](https://reddit.com/r/pihole/) / [GitHub](https://github.com/pi-hole)
-* ⭐ **Pi-Hole Tools** - [Filters](https://firebog.net/), [2](https://github.com/zachlagden/Pi-hole-Optimized-Blocklists) / [Tray App](https://github.com/PinchToDebug/Pihole-Tray/) / [Android Server](https://github.com/DesktopECHO/Pi-hole-for-Android) (root)
-* ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - Self-Hosted DNS Adblocking / [Balena-AdGuard](https://github.com/klutchell/balena-adguard) / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdGuardHome)
-* ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS Adblocking / Filtering / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
-* [DNS Speed Test](https://dnsspeedtest.online/) / [GitHub](https://github.com/BrainicHQ/DoHSpeedTest), [DNS Perf](https://dnsperf.com/dns-speed-benchmark) or [NameBench](https://code.google.com/archive/p/namebench/) - DNS Speed Tests
-* [YogaDNS](https://yogadns.com/) - Custom DNS Client for Windows
-* [NextDNS](https://nextdns.io) - Customizable DNS Adblocking Service / [Guide](https://github.com/yokoffing/NextDNS-Config) / [Video](https://youtu.be/WUG57ynLb8I) / [GitHub](https://github.com/nextdns/nextdns)
-* [LibreDNS](https://libredns.gr/) - DNS Adblocking / [GitLab](https://gitlab.com/libreops/libredns)
-* [Tiarap](https://doh.tiar.app/) - DNS Adblocking / [GitHub](https://github.com/pengelana/blocklist)
-* [Rethink DNS](https://rethinkdns.com/configure) - DNS Adblocking / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)
-* [DNSWarden](https://dnswarden.com/) - DNS Adblocking / [GitHub](https://github.com/bhanupratapys/dnswarden)
-* [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS Adblocking / [GitHub](https://github.com/0xERR0R/blocky)
-* [AdGuard DNS](https://adguard-dns.io/) - Customizable DNS Adblocking Service / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden)
-* [Control D](https://controld.com/free-dns) - Customizable DNS Adblocking Service / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
-* [NxFilter](https://nxfilter.org/) - Self-Hosted Customizable DNS Adblocking / [Subreddit](https://reddit.com/r/nxfilter)
-* [TBlock](https://tblock.me/) - DNS Adblocking Client / [Source Code](https://codeberg.org/tblock/tblock)
-* [Diversion](https://diversion.ch/) - Asuswrt-Merlin Router Adblock Manager
-* [Phishing Army](https://phishing.army/) - DNS Phishing Blocklist / [X](https://x.com/PhishingArmy)
-* [Technitium](https://technitium.com/dns) - Self-Hosted DNS Server / [Subreddit](https://reddit.com/r/technitium/) / [GitHub](https://github.com/TechnitiumSoftware/DnsServer)
+* 🌐 **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS 提供商索引
+* ↪️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers) 免费DNS 解析器**
+* ⭐ **[Pi-Hole](https://pi-hole.net/)** - 自托管 DNS 广告拦截器 / [X](https://x.com/The_Pi_Hole) / [Subreddit](https://reddit.com/r/pihole/) / [GitHub](https://github.com/pi-hole)
+* ⭐ **Pi-Hole 工具** - [过滤器](https://firebog.net/), [2](https://github.com/zachlagden/Pi-hole-Optimized-Blocklists) / 托盘应用/ [Android 服务器](https://github.com/DesktopECHO/Pi-hole-for-Android) (root)
+* ⭐ **[AdGuard 主页](https://adguard.com/en/adguard-home/overview.html)** - 自托管 DNS 广告拦截 / [Balena-AdGuard](https://github.com/klutchell/balena-adguard) / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdGuardHome)
+* ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS 广告拦截 / 过滤 / [扩展程序](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
+* [DNS 速度测试](https://dnsspeedtest.online/) / [GitHub](https://github.com/BrainicHQ/DoHSpeedTest), [DNS Perf](https://dnsperf.com/dns-speed-benchmark) 或 [NameBench](https://code.google.com/archive/p/namebench/) - DNS 速度测试
+* [YogaDNS](https://yogadns.com/) - 适用于 Windows 的自定义 DNS 客户端
+* [NextDNS](https://nextdns.io) - 可定制的 DNS 广告拦截服务 / [指南](https://github.com/yokoffing/NextDNS-Config) / [视频](https://youtu.be/WUG57ynLb8I) / [GitHub](https://github.com/nextdns/nextdns)
+* [LibreDNS](https://libredns.gr/) - DNS 广告拦截器 / [GitLab](https://gitlab.com/libreops/libredns)
+* [Tiarap](https://doh.tiar.app/) - DNS 广告拦截 / [GitHub](https://github.com/pengelana/blocklist)
+* [Rethink DNS](https://rethinkdns.com/configure) - DNS 广告拦截 / [Subreddit](https://www.reddit.com/r/rethinkdns/) / [Telegram](https://t.me/rethinkdns)
+* [DNSWarden](https://dnswarden.com/) - DNS 广告拦截 / [GitHub](https://github.com/bhanupratapys/dnswarden)
+* [Blocky](https://0xerr0r.github.io/blocky/latest/) - DNS 广告拦截 / [GitHub](https://github.com/0xERR0R/blocky)
+* [AdGuard DNS](https://adguard-dns.io/) - 可定制的 DNS 广告拦截服务 / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden)
+* [Control D](https://controld.com/free-dns) - 可定制的 DNS 广告拦截服务 / [X](https://x.com/controldns) / [Subreddit](https://reddit.com/r/ControlD/) / [Discord](https://discord.gg/dns)
+* [NxFilter](https://nxfilter.org/) - 自托管可定制DNS广告拦截器 / [Subreddit](https://reddit.com/r/nxfilter)
+* [TBlock](https://tblock.me/) - DNS 广告拦截客户端 / [Source Code](https://codeberg.org/tblock/tblock)
+* [Diversion](https://diversion.ch/) - Asuswrt-Merlin 路由器广告拦截管理器
+* [Phishing Army](https://phishing.army/) - DNS 网络钓鱼黑名单 / [X](https://x.com/PhishingArmy)
+* [Technitium](https://technitium.com/dns) - 自托管 DNS 服务器 / [Subreddit](https://reddit.com/r/technitium/) / [GitHub](https://github.com/TechnitiumSoftware/DnsServer)
 
 ---
 
