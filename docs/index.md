@@ -14,13 +14,13 @@ hero:
     alt: FMHY Icon
   actions:
     - theme: brand
-      text: See Beginners Guide
+      text: 查看新手指南
       link: /beginners-guide
     - theme: alt
-      text: Posts
+      text: 动态
       link: /posts
     - theme: alt
-      text: Contribute
+      text: 贡献
       link: /other/contributing
     - theme: alt
       text: Discord
