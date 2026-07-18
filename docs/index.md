@@ -27,22 +27,22 @@ hero:
       link: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
 
 features:
-  - title: Adblocking / Privacy
+  - title: 广告拦截 / 隐私
     link: /privacy
-    details: Learn how to block ads, trackers and other nasty things.
+    details: 学习如何拦截广告、追踪器和其他烦恼人的东西。
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#D05A6E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-shield-ellipsis"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="M8 12h.01"/><path d="M12 12h.01"/><path d="M16 12h.01"/><title>Ad-block / Privacy</title></svg>
 
-  - title: Artificial Intelligence
+  - title: 人工智能
     link: /ai
-    details: Explore the world of AI and machine learning.
+    details: 探索人工智能和机器学习的世界。
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#91989F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-bot"><path d="M12 8V4H8"/><rect width="16" height="12" x="4" y="8" rx="2"/><path d="M2 14h2"/><path d="M20 14h2"/><path d="M15 13v2"/><path d="M9 13v2"/><title>Artificial Intelligence</title></svg>
 
-  - title: Streaming
+  - title: 流媒体
     link: /video
     details:
-      Stream, download, torrent and binge all your favourite movies and shows!
+      流媒体播放、下载、BT下载、尽情观看你喜爱的电影和节目！
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#7aa2f7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-tv-minimal-play"><path d="M15.033 9.44a.647.647 0 0 1 0 1.12l-4.065 2.352a.645.645 0 0 1-.968-.56V7.648a.645.645 0 0 1 .967-.56z"/><path d="M7 21h10"/><rect width="20" height="14" x="2" y="3" rx="2"/><title>Streaming</title></svg>
 
