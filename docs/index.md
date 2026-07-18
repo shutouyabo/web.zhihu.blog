@@ -4,8 +4,8 @@ layout: home
 description: The largest collection of free stuff on the internet!
 
 hero:
-  name: freemediaheckyeah
-  tagline: The largest collection of free stuff on the internet!
+  name: FMHY中文工具箱 - 免费媒体真棒
+  tagline:
   announcement:
     title: Fight Chat Control 🔒
     link: https://fightchatcontrol.eu/
@@ -117,7 +117,6 @@ features:
     details:
       Various topics like food, travel, news, shopping, fun sites and more!
 ---
-
 <script setup>
 import { onMounted } from 'vue'
 
@@ -157,7 +156,7 @@ onMounted(() => {
 
   let clickCount = 0;
   const heroImage = document.querySelector('.VPImage.image-src');
-  
+
   const handleClick = () => {
     clickCount += 1;
     if (clickCount === 5) {
