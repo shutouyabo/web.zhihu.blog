@@ -113,11 +113,6 @@ features:
     link: /misc
     details:
       各种主题，如美食、旅行、新闻、购物、趣味站点等！
-
-  - title: 我的收藏
-    link: /my
-    details:
-      站长的各种收藏
 ---
 <script setup>
 import { onMounted } from 'vue'
