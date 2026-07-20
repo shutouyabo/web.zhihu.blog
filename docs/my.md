@@ -1,7 +1,7 @@
 ---
 
----
 
+---
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 
 ---
@@ -10,35 +10,33 @@
 
 # ► 知网
 
-* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [GitHub Topics](https://github.com/topics/awesome)** / [2](https://github.com/topics/awesome-list) - All Awesome Lists
-* 🌐 **[Lists](https://github.com/jnv/lists)** - List of Lists Index
-* ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
-* ↪️ **[Privacy Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_indexes)**
-* ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
-* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
-* ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
-* ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
-* [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
-* [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
-* [theindex.fyi](https://theindex.fyi/), [ooh.directory](https://ooh.directory/) or [⁠Kagi Small Web](https://kagi.com/smallweb/) - Find Random Small / Indie Sites
-* [Dan&#39;s Guides](https://rentry.co/danxyz7) - List of Guides by Dan
-* [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/pages), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
-* [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [NoSignups](https://nosignups.net/) / [GitHub](https://github.com/BraveOPotato/FckSignups), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
-* [SmartLinks](https://smartlinks.org/index.html) - Website Directory
-* [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
-* [Data Hoarding](https://datahoarding.org/) - Data Hoarding Sites / Resources
-* [Archive-It](https://archive-it.org/) - Archive.org Collections
-* [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
-* [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)
-* [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
-* [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue) or [href.cool](https://href.cool/) - Oldschool Site Indexes
-* [DeletedCity](http://deletedcity.net/) or [Restorativland](https://geocities.restorativland.org/) - Geocities Site Indexes
-* [National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
-* [The Hive Index](https://thehiveindex.com/) - Online Communities Index
-* [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
-* [NetSplit](https://netsplit.de/) - IRC Channel Index
-* [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
-* [sourcehut](https://sr.ht/) - Public Project Index
+* 知网免费下载通道：
+
+  考拉图书馆：[http://www.1762.net/](http://www.1762.net/)
+
+  【中文数据库】或【图书馆汇总】入口，可以下载知网/万方文献!
+  【百度文库】入口用于下载文库原格式文档
+  下面这些账号是共享的，一次只能1个人登陆，往后选不易撞车！
+  73308714 341420
+  81129342 482150
+  03622503 122310
+  99366899 321100
+  23964302 426197
+  42439629 883425
+  21638918 637011
+  81525001 861409
+  22979109 849410
+  49970569 795014
+  73997566 739359
+  42785181 602431
+  86029075 299508
+  56770634 247711
+  93445848 755495
+  18199292 065128
+  67320179 633539
+  89931581 247252
+  25790118 031813
+  99905680 025255
 
 ---
 
