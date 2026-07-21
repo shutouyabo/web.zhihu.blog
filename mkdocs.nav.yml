@@ -1,6 +1,6 @@
 nav:
     - Home: index.md
-    - A:
+    - 我的收藏:
       - 目录: A/index.md
       - 1: A/1.md
       - 2: A/2.md
