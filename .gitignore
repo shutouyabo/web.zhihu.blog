@@ -1,14 +1,3 @@
-**/.vitepress/dist
-**/.vitepress/cache
-node_modules
-*.log*
-.nitro
-.cache
-.output
-.env
-dist
-.eslintcache
-docs/.vitepress/.temp
-result
-docs/recently-removed.md
-docs/public/single-page.md
+tools/__pycache__/env.cpython-310.pyc
+tools/env.py
+tools/__pycache__/env.cpython-39.pyc
