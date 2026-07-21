@@ -1,7 +1,7 @@
 nav:
     - Home: index.md
     - 我的收藏:
-      - 1: A/1.md
+      - 文献 电子书 阅读: A/1.md
       - 2: A/2.md
     - 广告拦截 / 隐私保护:
       - 目录: B/index.md
