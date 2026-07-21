@@ -1,8 +1,8 @@
-﻿site_name: 大全
+﻿site_name: 网址大全
 site_description: 
-site_url: https://av.zhihu.blog/
-#repo_url: https://github.com/
-#remote_name: shutouyabo/av
+site_url: https://web.zhihu.blog/
+repo_url: https://github.com/shutouyabo/web.zhihu.blog
+remote_name: shutouyabo/web.zhihu.blog
 edit_uri: edit/main/docs/ # 编辑按钮的url
 INHERIT: mkdocs.nav.yml
 
