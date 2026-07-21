@@ -1,68 +1,68 @@
 nav:
     - Home: index.md
     - 我的收藏:
-      - 目录: A/index.md
-      - 广告拦截: A/广告拦截.md
-      - 广告拦截过滤规则: A/广告拦截过滤规则.md
+      - 目录: a/index.md
+      - 广告拦截: a/广告拦截.md
+      - 广告拦截过滤规则: a/广告拦截过滤规则.md
     - 广告拦截 / 隐私保护:
-      - 目录: B/index.md
-      - 1: B/1.md      
-      - 2: B/2.md
-      - 3: B/3.md         
-      - 4: B/4.md      
+      - 目录: b/index.md
+      - 1: b/1.md      
+      - 2: b/2.md
+      - 3: b/3.md         
+      - 4: b/4.md      
     - 人工智能:
-      - 目录: C/index.md
-      - 1: C/1.md      
-      - 2: C/2.md
-      - 3: C/3.md      
-      - 4: C/4.md      
-      - 5: C/5.md                
+      - 目录: c/index.md
+      - 1: c/1.md      
+      - 2: c/2.md
+      - 3: c/3.md      
+      - 4: c/4.md      
+      - 5: c/5.md                
     - 流媒体:
-      - 目录: D/index.md
-      - 1: D/1.md
-      - 2: D/2.md
+      - 目录: d/index.md
+      - 1: d/1.md
+      - 2: d/2.md
     - 音乐:
-      - 目录: E/index.md
-      - 1: E/1.md
-      - 2: E/2.md
+      - 目录: e/index.md
+      - 1: e/1.md
+      - 2: e/2.md
     - 游戏:
-      - 目录: F/index.md
-      - 1: F/1.md
-      - 2: F/2.md
+      - 目录: f/index.md
+      - 1: f/1.md
+      - 2: f/2.md
     - 阅读:
-      - 目录: G/index.md
-      - 1: G/1.md
-      - 2: G/2.md
+      - 目录: g/index.md
+      - 1: g/1.md
+      - 2: g/2.md
     - 下载:
-      - 目录: H/index.md
-      - 1: H/1.md
-      - 2: H/2.md
+      - 目录: h/index.md
+      - 1: h/1.md
+      - 2: h/2.md
     - Torrent下载:
-      - 目录: I/index.md
-      - 1: I/1.md
-      - 2: I/2.md
+      - 目录: i/index.md
+      - 1: i/1.md
+      - 2: i/2.md
     - 教育:
-      - 目录: J/index.md
-      - 1: J/1.md
-      - 2: J/2.md
-      - 3: J/3.md
-      - 4: J/4.md     
-      - 5: J/5.md              
+      - 目录: j/index.md
+      - 1: j/1.md
+      - 2: j/2.md
+      - 3: j/3.md
+      - 4: j/4.md     
+      - 5: j/5.md              
     - Android / iOS:
-      - 目录: K/index.md
-      - 1: K/1.md
-      - 2: K/2.md
+      - 目录: k/index.md
+      - 1: k/1.md
+      - 2: k/2.md
     - Linux / macOS:
-      - 目录: L/index.md
-      - 1: L/1.md
-      - 2: L/2.md
+      - 目录: l/index.md
+      - 1: l/1.md
+      - 2: l/2.md
     - 非英语:
-      - 目录: M/index.md
-      - 1: M/1.md
-      - 2: M/2.md
+      - 目录: m/index.md
+      - 1: m/1.md
+      - 2: m/2.md
     - 其他:
-      - 目录: N/index.md
-      - 1: N/1.md
-      - 2: N/2.md
+      - 目录: n/index.md
+      - 1: n/1.md
+      - 2: n/2.md
 
     
