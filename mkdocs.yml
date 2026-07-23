@@ -142,6 +142,7 @@ extra_javascript:
   - javascripts/adsense.js # AdSense广告脚本
   - javascripts/test-adsense.js # AdSense测试脚本（开发时使用）
   - javascripts/accessibility.js
+  - js/video-safe.js  
 
 extra_css:
   - stylesheets/extra.css
