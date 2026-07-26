@@ -17,10 +17,10 @@ outline: false
 * "你们的资源让我能给我父亲找来他想要的任何节目或电影。无论是他年轻时的老片子，还是其他东西，那些我本来根本找不到的内容。这对我来说意义重大，因为他在2020年2月做了心脏手术，现在基本做不了什么，这是他为数不多能让自己忙起来的方式。谢谢你们。"
 * *"史上最好的 Wiki。我妻子得了癌症第四期。我是个普通上班族，靠着仓库的工资维持这个家，还要养活一家人。找到这个 Wiki 让我们几乎不花一分钱就能贴近过去的生活方式，哈哈！Paperwhite 上的书、电影、电视剧、游戏、教育，等等等等。这里的东西太多了，极大地丰富了我们的生活。而且每次我深入探索，总能发现更多宝藏。请千万不要停止更新或添加这个精彩的资源库！总之，我只是想匿名感谢这里的一切。了不起的资源。很高兴能有一个精心整理的列表，而不是在互联网的荒野里盲目乱撞。**你们在这里做着非常了不起的工作。这基本上已经是我的主页了。无限感激！"*
 * *"这就是我如此热爱 FMHY 的原因。以前我每天要花好几个小时自己到处找有用的网站*。"
-* *"I love this website so much. I literally have it labelled as "Everything" in my favorites."*
-* *"No bs, and has all the info I need to gain free access to media."*
-* *"You have saved me in so many ways that it could not fit here in terms of the amount of text. I'm from a poor "third world" country and a portal like this allows me endless things that I simply can't afford! Keep up the good spirit and I wish you all the best from the bottom of my heart!"*
-* *"I love this website so much. I'm a current college student and the resources offered on this page have eased my stress in terms of finding textbooks and readings - thank you!"*
+* "我太喜欢这个网站了。我在收藏夹里直接把它标记为‘一切’。"
+* "没有废话，而且有我免费获取媒体内容所需的所有信息。"
+* "你们在太多方面拯救了我，多到这里的文字根本写不下。我来自一个贫穷的‘第三世界’国家，像这样的门户网站让我能接触到无数我根本负担不起的东西！请保持这份热情，我衷心祝愿你们一切顺利！"
+* "我太喜欢这个网站了。我是一名在校大学生，这个页面提供的资源减轻了我找教科书和阅读材料的压力——谢谢你们！"
 * *"Y'all have helped not only me but my friends through college and the pandemic in ways you all probably don't even realize."*
 * *"Thank you so much for this effort, guys, you are amazing, I stopped searching on google for stuff and got addicted to your website, keep going :)"*
 * *"Literally, when I need something, all I need to do is check here first! thank you for being here, for being access to everyone and anyone, I really really appreciate it!"*
@@ -57,3 +57,4 @@ outline: false
 * *"史上最好的 Wiki。我妻子得了癌症第四期。我是个普通上班族，靠着仓库的工资维持这个家，还要养活一家人。找到这个 Wiki 让我们几乎不花一分钱就能贴近过去的生活方式，哈哈！Paperwhite 上的书、电影、电视剧、游戏、教育，等等等等。这里的东西太多了，极大地丰富了我们的生活。而且每次我深入探索，总能发现更多宝藏。请千万不要停止更新或添加这个精彩的资源库！总之，我只是想匿名感谢这里的一切。了不起的资源。很高兴能有一个精心整理的列表，而不是在互联网的荒野里盲目乱撞。你们在这里做着非常了不起的工作。这基本上已经是我的主页了。无限感激！"*
 * *"这就是我如此热爱 FMHY 的原因。以前我每天要花好几个小时自己到处找有用的网站。"*
 * *"这就是我如此热爱 FMHY 的原因。以前我每天要花好几个小时自己到处找有用的网站。"*
+* *"我太喜欢这个网站了。我在收藏夹里直接把它标记为‘一切’。"*
