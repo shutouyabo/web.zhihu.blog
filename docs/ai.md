@@ -58,69 +58,69 @@
 
 ## ▷ 专业聊天机器人
 
-* 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search), [2](https://huggingface.co/spaces/Felladrin/awesome-ai-web-search)** - AI Search Engine Index
-* ⭐ **[Gemini Notebook](https://notebooklm.google.com/)** - Document Chatbot / Note-Taking / Slides / [Anki Export](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [Subreddit](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
-* ⭐ **[Google AI Mode](https://google.com/aimode)** - AI Search Engine / Pro (Google Sign-Up) / Fast (No Sign-Up)
-* ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI Search Engine
-* ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx), [NeverWrite](https://neverwrite.app/) / [GitHub](https://github.com/jsgrrchg/NeverWrite), [Toolbaz](https://toolbaz.com/) / [2](https://app.toolbaz.com/ai-tools/list) or [Rytr](https://rytr.me/) - AI Creative Writing Tools
-* [Perplexity](https://www.perplexity.ai/) - AI Search Engine / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
-* [Arena](https://arena.ai/?mode=direct&chat-modality=search), [2](https://canaryarena.ai/search/direct) - AI Search Engine / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [⁠iAsk AI](https://iask.ai/) - Research Chatbot
-* [⁠Exa](https://exa.ai/search) - AI Search Engine
-* [Alphaxiv](https://www.alphaxiv.org/) - Research Chatbot
-* [Vane](https://github.com/ItzCrazyKns/Vane) - FOSS AI Search Engine / Self-Hosted / [Discord](https://discord.gg/26aArMy8tT)
-* [Learn About](https://learning.google.com/experiments/learn-about) or [Learning Coach](https://gemini.google.com/gem/learning-coach) - Google's Educational Search AIs / [Add Features](https://github.com/Nagi-ovo/gemini-voyager)
-* [⁠Sci-Bot](https://sci-bot.ru/) - Sci-Hub Research Chatbot
-* [SciSpace](https://scispace.com/) - Research Chatbot / [Discord](https://discord.com/invite/cR3r8wP92C)
-* [Scinito](https://ekb.scinito.ai/ai/chat) - Research Chatbot
-* [Elicit](https://elicit.com/) - Research Chatbot / [GitHub](https://github.com/elicit)
-* [PrivateGPT](https://privategpt.dev/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt)
-* [Onyx](https://www.onyx.app/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx)
-* [DocsGPT](https://www.docsgpt.cloud/) - Document Chatbot / Note-Taking / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT)
-* [⁠Anara](https://anara.com/) - Document Chatbot
-* [⁠Paper2Gal](https://paper2gal.com/) - Turn Academic Papers into Visual Novels via AI
-* [Hyperspace](https://hyper.space/) - P2P AI Network / [GitHub](https://github.com/hyperspaceai)
+* 🌐 **[Awesome AI Web Search](https://github.com/felladrin/awesome-ai-web-search), [2](https://huggingface.co/spaces/Felladrin/awesome-ai-web-search)** - AI 搜索引擎索引
+* ⭐ **[Gemini Notebook](https://notebooklm.google.com/)** - 文档聊天机器人 / 笔记工具 / 幻灯片 / [Anki 导出](https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem) / [X](https://x.com/NotebookLM) / [子版块](https://www.reddit.com/r/notebooklm/) / [Discord](https://discord.com/invite/notebooklm)
+* ⭐ **[Google AI Mode](https://google.com/aimode)** - AI 搜索引擎 / Pro 版（需谷歌账号）/ 快速版（无需登录）
+* ⭐ **[⁠Ask Brave](https://search.brave.com/ask)** - AI 搜索引擎
+* ⭐ **[TextFX](https://textfx.withgoogle.com/)** / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx), [NeverWrite](https://neverwrite.app/) / [GitHub](https://github.com/jsgrrchg/NeverWrite), [Toolbaz](https://toolbaz.com/) / [2](https://app.toolbaz.com/ai-tools/list) or [Rytr](https://rytr.me/) - AI 创意写作工具 / 无需注册
+* [Perplexity](https://www.perplexity.ai/) - AI 搜索引擎 / [Enhancements](https://www.cplx.app/) / [Discord](https://discord.com/invite/perplexity-ai)
+* [Arena](https://arena.ai/?mode=direct&chat-modality=search), [2](https://canaryarena.ai/search/direct) - AI 搜索引擎 / 需注册 / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [⁠iAsk AI](https://iask.ai/) - 研究型聊天机器人
+* [⁠Exa](https://exa.ai/search) - AI 搜索引擎
+* [Alphaxiv](https://www.alphaxiv.org/) - 研究型聊天机器人
+* [Vane](https://github.com/ItzCrazyKns/Vane) - 开源 AI 搜索引擎 / 可自托管 / [Discord](https://discord.gg/26aArMy8tT)
+* [Learn About](https://learning.google.com/experiments/learn-about) 或 [Learning Coach](https://gemini.google.com/gem/learning-coach) - 谷歌教育搜索 AI / [Add Features](https://github.com/Nagi-ovo/gemini-voyager)
+* [⁠Sci-Bot](https://sci-bot.ru/) - Sci-Hub 研究型聊天机器人
+* [SciSpace](https://scispace.com/) - 研究型聊天机器人/ [Discord](https://discord.com/invite/cR3r8wP92C)
+* [Scinito](https://ekb.scinito.ai/ai/chat) - 研究型聊天机器人
+* [Elicit](https://elicit.com/) - 研究型聊天机器人 / [GitHub](https://github.com/elicit)
+* [PrivateGPT](https://privategpt.dev/) - 文档聊天机器人 / 笔记工具 / [Discord](https://discord.com/invite/bK6mRVpErU) / [GitHub](https://github.com/zylon-ai/private-gpt)
+* [Onyx](https://www.onyx.app/) - 文档聊天机器人 / 笔记工具 / [Discord](https://discord.com/invite/jDnRGhWhg4) / [GitHub](https://github.com/onyx-dot-app/onyx)
+* [DocsGPT](https://www.docsgpt.cloud/) - 文档聊天机器人 / 笔记工具 / [Discord](https://discord.com/invite/n5BX8dh8rU) / [GitHub](https://github.com/arc53/DocsGPT)
+* [⁠Anara](https://anara.com/) - 文档聊天机器人
+* [⁠Paper2Gal](https://paper2gal.com/) - 将学术论文通过 AI 转化为视觉小说
+* [Hyperspace](https://hyper.space/) - P2P AI 网络 / [GitHub](https://github.com/hyperspaceai)
 
 ---
 
 ## ▷ 本地 AI 前端
 
-* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Desktop App / [Presets / Themes](https://discord.gg/MU5FKZvuT7) / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
-* ⭐ **[Open WebUI](https://openwebui.com/)** - Web UI / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
-* ⭐ **[Jan](https://jan.ai/)** - Desktop App / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
-* ⭐ **[LM Studio](https://lmstudio.ai/download)** - Desktop App / Self-Hosted Models Only / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
+* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - 桌面应用 / [预设 / 主题](https://discord.gg/MU5FKZvuT7) / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
+* ⭐ **[Open WebUI](https://openwebui.com/)** - Web 界面 / [Discord](https://discord.gg/5rJgQTnV4s) / [GitHub](https://github.com/open-webui/open-webui)
+* ⭐ **[Jan](https://jan.ai/)** - 桌面应用 / [Discord](https://discord.com/invite/FTk2MvZwJH) / [GitHub](https://github.com/menloresearch/jan)
+* ⭐ **[LM Studio](https://lmstudio.ai/download)** - 桌面应用 / 仅限自托管模型 / [Discord](https://discord.gg/aPQfnNkxGC) / [GitHub](https://github.com/lmstudio-ai)
 * ⭐ **[TextGen](https://github.com/oobabooga/textgen)** - Web UI / Self-Hosted Models Only / [Colab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb) / [Subreddit](https://www.reddit.com/r/Oobabooga/) / [Discord](https://discord.gg/jwZCF2dPQN)
-* [GPT4Free](https://github.com/xtekky/gpt4free) - Desktop App / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
-* [Msty](https://msty.app/) - Desktop App / [Discord](https://discord.gg/2QBw6XxkCC)
-* [Cherry Studio](https://www.cherry-ai.com/) - Desktop App / [Mobile](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
-* [⁠Locally Uncensored](https://locallyuncensored.com/) - Desktop App
+* [GPT4Free](https://github.com/xtekky/gpt4free) - 桌面应用 / [Web](https://g4f.dev/chat/) / [Telegram](https://telegram.me/g4f_channel) / [Discord](https://discord.com/invite/qXA4Wf4Fsm)
+* [Msty](https://msty.app/) - 桌面应用 / [Discord](https://discord.gg/2QBw6XxkCC)
+* [Cherry Studio](https://www.cherry-ai.com/) - 桌面应用 / [手机端](https://github.com/CherryHQ/cherry-studio-app) / [Discord](https://discord.gg/wez8HtpxqQ) / [GitHub](https://github.com/CherryHQ/cherry-studio)
+* [⁠Locally Uncensored](https://locallyuncensored.com/) - 桌面应用
 * [⁠Lemonade](https://lemonade-server.ai/) - Desktop App / [Discord](https://discord.gg/5xXzkMu8Zk) / [GitHub](https://github.com/lemonade-sdk/lemonade)
-* [Chatbox](https://chatboxai.app/) - Desktop App / [GitHub](https://github.com/chatboxai/chatbox)
-* [LobeHub](https://lobechat.com/chat) - Desktop App / Requires Sign-Up / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
-* [Noi](https://noib.app/) - Desktop App / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)
-* [⁠Odysseus](https://odysseus-dev.github.io/odysseus/) - Web UI / [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
-* [LibreChat](https://librechat.ai/) - Web UI / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
-* [LoLLMs](https://lollms.com/) - Web UI / [GitHub](https://github.com/ParisNeo/lollms-webui)
-* [AnythingLLM](https://anythingllm.com/) - Desktop App / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)
-* [tgpt](https://github.com/aandrew-me/tgpt) - Command-Line Interface
-* [⁠ch.at](https://github.com/Deep-ai-inc/ch.at) - Language Model Bridge / Lightweight / Minimal
+* [Chatbox](https://chatboxai.app/) - 桌面应用 / [GitHub](https://github.com/chatboxai/chatbox)
+* [LobeHub](https://lobechat.com/chat) - 桌面应用 / 需注册 / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
+* [Noi](https://noib.app/) - 桌面应用 / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)
+* [⁠Odysseus](https://odysseus-dev.github.io/odysseus/) - Web 界面 / [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
+* [LibreChat](https://librechat.ai/) - Web 界面 / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
+* [LoLLMs](https://lollms.com/) - Web 界面 / [GitHub](https://github.com/ParisNeo/lollms-webui)
+* [AnythingLLM](https://anythingllm.com/) - 桌面应用 / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)
+* [tgpt](https://github.com/aandrew-me/tgpt) - 命令行界面
+* [⁠ch.at](https://github.com/Deep-ai-inc/ch.at) - 语言模型桥接 / 轻量级 / 极简
 
 ---
 
 ## ▷ 自托管工具
 
-* 🌐 **[Awesome Local LLM](https://github.com/rafska/awesome-local-llm/)** - Local LLM Platforms / Resources
-* ⭐ **[llama.cpp](https://llama.app/)** - Self-Hosted Transformer-Based LLMs / [GitHub](https://github.com/ggml-org/llama.cpp)
-* ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - llama.cpp with API + GUI / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
-* ⭐ **[Aphrodite Engine](https://aphrodite.pygmalion.chat/)** - Serve LLMs at Scale with Kobold & OpenAI APIs / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/PygmalionAI/aphrodite-engine)
-* [Petals](https://petals.dev/) - Self-Hosted / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals)
-* [Leon](https://getleon.ai/) - Self-Hosted / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)
-* [Ollama](https://ollama.com/) - Self-Hosted / [Discord](https://discord.com/invite/ollama) / [GitHub](https://github.com/ollama/ollama)
+* 🌐 **[Awesome Local LLM](https://github.com/rafska/awesome-local-llm/)** - 本地 LLM 平台/资源
+* ⭐ **[llama.cpp](https://llama.app/)** - 自托管 Transformer 架构 LLM / [GitHub](https://github.com/ggml-org/llama.cpp)
+* ⭐ **[KoboldCpp](https://github.com/LostRuins/koboldcpp)** - 带 API 和 GUI 的 llama.cpp / [ROCm](https://github.com/YellowRoseCx/koboldcpp-rocm) / [Colab](https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb)
+* ⭐ **[Aphrodite Engine](https://aphrodite.pygmalion.chat/)** - 大规模提供 LLM 服务，支持 Kobold 和 OpenAI API / [Colab](https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb) / [GitHub](https://github.com/PygmalionAI/aphrodite-engine)
+* [Petals](https://petals.dev/) - 自托管 / [Discord](https://discord.gg/D9MwApKgWa) / [GitHub](https://github.com/bigscience-workshop/petals)
+* [Leon](https://getleon.ai/) - 自托管 / [Discord](https://discord.gg/MNQqqKg) / [GitHub](https://github.com/leon-ai/leon)
+* [Ollama](https://ollama.com/) - 自托管 / [Discord](https://discord.com/invite/ollama) / [GitHub](https://github.com/ollama/ollama)
 * [GPT4All](https://www.nomic.ai/gpt4all) - Self-Hosted / [Discord](https://discord.com/invite/myY5YDR8z8) / [GitHub](https://github.com/nomic-ai/gpt4all)
-* [llamafile](https://github.com/Mozilla-Ocho/llamafile) - Run LLM with Single Files / [Discord](https://discord.gg/YuMNeuKStr)
-* [LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - LLM API Key Proxy
-* [⁠Can I Run AI Locally](https://www.canirun.ai/) or [What Models?](https://whatmodelscanirun.com/) - Determine Which AI Models You Can Run Locally
-* [⁠LocalAI](https://localai.io/) - Self-Hosted Models / [GitHub](https://github.com/mudler/LocalAI)
+* [llamafile](https://github.com/Mozilla-Ocho/llamafile) - 通过单个文件运行 LLM / [Discord](https://discord.gg/YuMNeuKStr)
+* [LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - LLM API 密钥代理
+* [⁠Can I Run AI Locally](https://www.canirun.ai/) 或 [What Models?](https://whatmodelscanirun.com/) - 判断你可以在本地运行哪些 AI 模型
+* [⁠LocalAI](https://localai.io/) - 自托管模型 / [GitHub](https://github.com/mudler/LocalAI)
 
 ---
 
