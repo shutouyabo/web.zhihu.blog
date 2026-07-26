@@ -371,23 +371,23 @@
 
 # ► AI 工具
 
-* 🌐 **[AI Price Compare](https://countless.dev/)**, **[LLM Pricing](https://www.llm-prices.com/)** / [GitHub](https://github.com/simonw/llm-prices) or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
-* 🌐 **[sindresorhus&#39;s Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)** or [Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt) - AI Resources
-* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT GUI Index
+* 🌐 **[AI Price Compare](https://countless.dev/)**, **[LLM Pricing](https://www.llm-prices.com/)** / [GitHub](https://github.com/simonw/llm-prices) 或 **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API 价格对比
+* 🌐 **[sindresorhus&#39;s Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)** 或 [Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt) - AI 资源
+* 🌐 **[Every ChatGPT GUI](https://github.com/billmei/every-chatgpt-gui)** - ChatGPT 图形界面索引
 * ↪️ **[AI API Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25B7_api_tools)**
-* [tldraw computer](https://computer.tldraw.com/) - Create Component Workflows to Generate or Transform Data / [Discord](https://discord.com/invite/SBBEVCA4PG) / [GitHub](https://github.com/tldraw/tldraw)
-* [⁠Page Assist](https://github.com/n4ze3m/page-assist), [ChatGPT Box](https://github.com/josStorer/chatGPTBox) or [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - Extensions
-* [LLM](https://llm.datasette.io/) - LLM CLI / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)
-* [⁠LightSession](https://github.com/11me/light-session) - Fix ChatGPT Lag
-* [⁠Privatiser](https://privatiser.net/) - Anonymize Sensitive Data for AI
-* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - Block ChatGPT Moderation Checks
-* [⁠Agent Reach](https://github.com/Panniantong/Agent-Reach) - Connect AI Agents to Popular Internet Platforms
-* [MassiveMark](https://www.bibcit.com/en/massivemark) - Convert LLM Chats to DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
-* [screenpipe](https://screenpi.pe/) - AI Screen Recorder / No Sign-Up / [Discord](https://discord.gg/dU9EBuw7Uq) / [GitHub](https://github.com/mediar-ai/screenpipe)
-* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - Export Chats / [GitHub](https://github.com/pionxzh/chatgpt-exporter)
-* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT Themes
+* [tldraw computer](https://computer.tldraw.com/) - 创建组件工作流以生成或转换数据 / [Discord](https://discord.com/invite/SBBEVCA4PG) / [GitHub](https://github.com/tldraw/tldraw)
+* [⁠Page Assist](https://github.com/n4ze3m/page-assist), [ChatGPT Box](https://github.com/josStorer/chatGPTBox) 或 [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md) - 扩展程序
+* [LLM](https://llm.datasette.io/) - LLM 命令行工具 / [Discord](https://discord.com/invite/RKAH4b8TvE) / [GitHub](https://github.com/simonw/llm)
+* [⁠LightSession](https://github.com/11me/light-session) - 修复 ChatGPT 延迟
+* [⁠Privatiser](https://privatiser.net/) - 为 AI 匿名化敏感数据
+* [ChatGPT DeMod](https://github.com/4as/ChatGPT-DeMod) - 屏蔽 ChatGPT 内容审核检查
+* [⁠Agent Reach](https://github.com/Panniantong/Agent-Reach) - 将 AI 代理连接到主流互联网平台
+* [MassiveMark](https://www.bibcit.com/en/massivemark) - 将 LLM 对话转换为 DOCX 格式 / [Discord](https://discord.gg/fPtQAQYmqq)
+* [screenpipe](https://screenpi.pe/) - AI 屏幕录制工具 / 无需注册 / [Discord](https://discord.gg/dU9EBuw7Uq) / [GitHub](https://github.com/mediar-ai/screenpipe)
+* [ChatGPT Exporter](https://greasyfork.org/en/scripts/456055) - 导出聊天记录 / [GitHub](https://github.com/pionxzh/chatgpt-exporter)
+* [GPThemes](https://github.com/itsmartashub/GPThemes) - ChatGPT 主题
 * [⁠WhichLLM](https://github.com/Andyyyy64/whichllm) - LLM Performance Comparison Tool
-* [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM Requirement Calculators
+* [LLM Model VRAM Calculator](https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator) - LLM 需求计算器
 
 ---
 
@@ -446,27 +446,27 @@
 ## ▷ 专项基准测试
 
 * ⭐ **[Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)** - VLM基准测试排行榜聚合器
-* [⁠DesignArena](https://www.designarena.ai/leaderboard/) - AI Design Benchmarks / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
-* [⁠EQ-Bench](https://eqbench.com/) - AI Emotional Intelligence Benchmarks / [GitHub](https://github.com/EQ-bench/eqbench3)
-* [⁠IUMB](https://pellaml.github.io/iumb/) - AI Mathematics Benchmarks / Leaderboard
-* [MathArena](https://matharena.ai/) - AI Mathematics Benchmarks / Competitions
-* [⁠Vals AI](https://www.vals.ai/) - AI Finance / Tax / Law Benchmarks
-* [⁠Simple Bench](https://simple-bench.com/) - AI Human Reasoning Benchmarks
-* [⁠SpeechMap.AI](https://speechmap.ai/) - AI Free Speech Benchmarks / [GitHub](https://github.com/xlr8harder/llm-compliance)
-* [⁠LLMs Bullshit Benchmark](https://petergpt.github.io/bullshit-benchmark/viewer/index.html) - Broken Premise Detection Benchmarks
-* [AI Elo](https://aielo.co/) - AI Game Competitions / Benchmarks
-* [ChessArena](https://www.chessarena.ai/) - AI Chess Benchmarks
-* [⁠VoxelBench](https://voxelbench.ai/) - Minecraft AI Generation Benchmark
+* [⁠DesignArena](https://www.designarena.ai/leaderboard/) - AI设计基准测试 / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [⁠EQ-Bench](https://eqbench.com/) - AI情商基准测试 / [GitHub](https://github.com/EQ-bench/eqbench3)
+* [⁠IUMB](https://pellaml.github.io/iumb/) - AI数学基准测试 / 排行榜
+* [MathArena](https://matharena.ai/) - AI数学基准测试 / 竞赛
+* [⁠Vals AI](https://www.vals.ai/) - AI金融/税务/法律基准测试
+* [⁠Simple Bench](https://simple-bench.com/) - AI人类推理基准测试
+* [⁠SpeechMap.AI](https://speechmap.ai/) - AI言论自由基准测试 / [GitHub](https://github.com/xlr8harder/llm-compliance)
+* [⁠LLMs Bullshit Benchmark](https://petergpt.github.io/bullshit-benchmark/viewer/index.html) - 错误前提检测基准测试
+* [AI Elo](https://aielo.co/) - AI游戏竞赛 / 基准测试
+* [ChessArena](https://www.chessarena.ai/) - AI国际象棋基准测试
+* [⁠VoxelBench](https://voxelbench.ai/) - Minecraft AI生成基准测试
 
 ---
 
 ## ▷ 编程基准测试
 
-* ⭐ **[SWEBench](https://www.swebench.com/)** - Software Engineering AI Leaderboard / Benchmarks / [GitHub](https://github.com/princeton-nlp/SWE-bench)
-* [WebDev Arena](https://arena.ai/leaderboard/code/webdev) - Coding AI Leaderboard / Benchmarks
-* [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - Coding AI Leaderboard / Benchmarks
-* [DeepSWE](https://deepswe.datacurve.ai/) - Coding AI Leaderboard / Benchmarks / [GitHub](https://github.com/datacurve-ai/deep-swe)
-* [⁠Vals AI](https://www.vals.ai/) - Coding AI Leaderboard / Benchmarks
+* ⭐ **[SWEBench](https://www.swebench.com/)** - 软件工程 AI 排行榜 / 基准测试 / [GitHub](https://github.com/princeton-nlp/SWE-bench)
+* [WebDev Arena](https://arena.ai/leaderboard/code/webdev) - 编程 AI 排行榜 / 基准测试
+* [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards/) - 编程 AI 排行榜 / 基准测试
+* [DeepSWE](https://deepswe.datacurve.ai/) - 编程 AI 排行榜 / 基准测试 / [GitHub](https://github.com/datacurve-ai/deep-swe)
+* [⁠Vals AI](https://www.vals.ai/) - 编程 AI 排行榜 / 基准测试
 
 ---
 
