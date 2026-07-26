@@ -330,21 +330,21 @@
 * ⭐ **[RVC V2](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md)** - RVC V2 Voice Cloning (Locally) / [Discord](https://discord.gg/HcsmBBGyVk)
 * ⭐ **[Voice Changer](https://github.com/w-okada/voice-changer/blob/master/docs_i18n/README_en.md)** - Real-Time Voice Changer (W-Okada) / [GitHub](https://github.com/deiteris/voice-changer) / [Colab](https://colab.research.google.com/github/deiteris/voice-changer/blob/master-custom/Colab_RealtimeVoiceChanger.ipynb)
 * [Voice Models](https://voice-models.com/) - AI Voice Models and Guides / [Discord](https://discord.gg/3WJ8r6Bf5A)
-* [AnyVoiceLab](https://anyvoicelab.com/voice-cloning/) - Voice Cloning / No Sign-Up
-* [AllVoiceLab](https://www.allvoicelab.com/) - Voice Cloning
-* [Zyphra](https://playground.zyphra.com/audio) - Voice Cloning / [GitHub](https://github.com/Zyphra/Zonos)
+* [AnyVoiceLab](https://anyvoicelab.com/voice-cloning/) - 语音克隆/ 无需注册
+* [AllVoiceLab](https://www.allvoicelab.com/) - 语音克隆
+* [Zyphra](https://playground.zyphra.com/audio) - 语音克隆 / [GitHub](https://github.com/Zyphra/Zonos)
 
 ---
 
 ## ▷ 人声分离-音频分离
 
-* 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** -
+* 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** -音乐与人声分离 AI 排行榜
 * ⭐ **[MVSEP](https://mvsep.com/)** - 每日 50 次 / [Decrease Queue Time](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mvsep-note.md)
 * [Splitter](https://www.bandlab.com/splitter) / 需注册
 * [VocalRemover](https://vocalremover.org/)
-* [Audacity Effects](https://www.audacityteam.org/download/openvino/) / [GitHub](https://github.com/intel/openvino-plugins-ai-audacity)
+* [Audacity 效果器](https://www.audacityteam.org/download/openvino/) / [GitHub](https://github.com/intel/openvino-plugins-ai-audacity)
 * [Ultimate Vocal Remover](https://ultimatevocalremover.com/) / [Colab](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb)
-* [Remove Vocals](https://www.remove-vocals.com/), [2](https://www.acapella-extractor.com/)
+* [Remove Vocals](https://www.remove-vocals.com/), [备用2](https://www.acapella-extractor.com/)
 * [Vocali.se](https://vocali.se/en)
 * [Mazmazika](https://www.mazmazika.com/)
 * [Ezstems](https://ezstems.com/)
