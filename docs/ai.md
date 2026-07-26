@@ -127,21 +127,21 @@
 ## ▷ 角色扮演聊天机器人
 
 * 🌐 **[Sukino-Findings](https://rentry.org/Sukino-Findings)** - AI Roleplay Resources
-* ⭐ **[Perchance](https://perchance.org/ai-character-chat)**, [2](https://perchance.org/urv-ai-chat) or [Custom Api](https://perchance.org/amoled-chat) - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
-* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - Self-Hosted Roleplaying Models / [Presets / Themes](https://discord.gg/MU5FKZvuT7) / [Subreddit](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
-* ⭐ **[PygmalionAI](https://pygmalion.chat/)** - Roleplaying Chatbots / Unlimited (Free Models) / Sign-Up / [Guide](https://wikia.schneedc.com/bot-creation/intro) / [Resources](https://clarasguide.valeena.workers.dev/Guides/PygmalionLinks/) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [Discord](https://discord.com/invite/pygmalionai) / [GitHub](https://github.com/PygmalionAI)
-* ⭐ **[Agnai](https://agnai.chat/)** - Chatbot Builders + Roleplaying + Images / Unlimited / Some NSFW / [Discord](https://discord.com/invite/DAn38sA8Qj)
-* ⭐ **[FlowGPT](https://flowgpt.com)** - Roleplaying Chatbots / Unlimited (Model-Ares) / Some NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
-* [HammerAI](https://www.hammerai.com/characters) - Chatbot Builder + Roleplaying + Images / Unlimited / Some NSFW / [Local](https://www.hammerai.com/desktop) / [Discord](https://discord.com/invite/kXuK7m7aa9) / [Subreddit](https://www.reddit.com/r/HammerAI/) / [X](https://x.com/HammerAIDotCom)
-* [Miku](https://docs.miku.gg/) / [Live Demo](https://bots.miku.gg/) / Open-Source / Roleplaying / Some NSFW / [Discord](https://discord.gg/3XPdpUdGgV)
-* [4thWall AI](https://beta.4wall.ai/) / [Subreddit](https://www.reddit.com/r/4WallAI/) / [Discord](https://discord.com/invite/4wallai) or [WyvernChat](https://app.wyvern.chat/) - Roleplaying Chatbots / No Sign-Up
-* [AI Dungeon](https://aidungeon.com/) / [Subreddit](https://www.reddit.com/r/AIDungeon/) / [Discord](https://discord.com/invite/HB2YBZYjyf) or [Spellbound](https://www.tryspellbound.com/) or [FictionLab](https://fictionlab.ai/) / [Discord](https://discord.com/invite/SKcb2C7HjH) - Roleplaying + Story Chatbot / No Sign-Up
-* [KoboldAI Web](https://lite.koboldai.net/) - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / [Discord](https://discord.com/invite/XuQWadgU9k)
-* [Verba](https://verba.ink/) - Roleplaying + Images / Unlimited / [Discord](https://discord.gg/verba)
-* [TavernAI](https://tavernai.net/) - Roleplaying / Story Chatbot / [Colab](https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb) / [Discord](https://discord.gg/zmK2gmr45t) / [GitHub](https://github.com/TavernAI/TavernAI)
-* [KoboldAI](https://koboldai.com/) - GUI for Roleplaying Chatbots / No Sign-Up / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
-* [Crossing the Uncanny Valley](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) - Realistic AI Voice Chatlooks
-* [⁠your ai slop bores me](https://youraislopbores.me/) - Interactive Human AI Roleplaying / [Discord](https://discord.gg/aislop)
+* ⭐ **[Perchance](https://perchance.org/ai-character-chat)**, [备用链接2](https://perchance.org/urv-ai-chat) or [自定义 Api](https://perchance.org/amoled-chat) - 角色扮演 + 图像生成 / 无需注册 / 无限制 / 部分 NSFW / [资源](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [子版块](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
+* ⭐ **[SillyTavern](https://docs.sillytavern.app/)** - 自托管角色扮演模型 / [预设 / 主题](https://discord.gg/MU5FKZvuT7) / [子版块](https://www.reddit.com/r/SillyTavernAI/) / [Discord](https://discord.gg/sillytavern) / [GitHub](https://github.com/SillyTavern/SillyTavern)
+* ⭐ **[PygmalionAI](https://pygmalion.chat/)** - 角色扮演聊天机器人 / 无限制（免费模型）/ 需注册 / [指南](https://wikia.schneedc.com/bot-creation/intro) / [资源](https://clarasguide.valeena.workers.dev/Guides/PygmalionLinks/) / [Subreddit](https://www.reddit.com/r/PygmalionAI/) / [Discord](https://discord.com/invite/pygmalionai) / [GitHub](https://github.com/PygmalionAI)
+* ⭐ **[Agnai](https://agnai.chat/)** - 聊天机器人构建 + 角色扮演 + 图像生成 / 无限制 / 部分 NSFW / [Discord](https://discord.com/invite/DAn38sA8Qj)
+* ⭐ **[FlowGPT](https://flowgpt.com)** - 角色扮演聊天机器人 / 无限制（模型-Ares）/ 部分 NSFW / [Discord](https://discord.com/invite/tWZGzcpTkf)
+* [HammerAI](https://www.hammerai.com/characters) - 聊天机器人构建 + 角色扮演 + 图像生成 / 无限制 / 部分 NSFW / [本地版](https://www.hammerai.com/desktop) / [Discord](https://discord.com/invite/kXuK7m7aa9) / [子版块](https://www.reddit.com/r/HammerAI/) / [X](https://x.com/HammerAIDotCom)
+* [Miku](https://docs.miku.gg/) / [在线演示](https://bots.miku.gg/) / 开源 / 角色扮演 / 部分 NSFW / [Discord](https://discord.gg/3XPdpUdGgV)
+* [4thWall AI](https://beta.4wall.ai/) / [子版块](https://www.reddit.com/r/4WallAI/) / [Discord](https://discord.com/invite/4wallai) 或 [WyvernChat](https://app.wyvern.chat/) - 角色扮演聊天机器人 / 无需注册
+* [AI Dungeon](https://aidungeon.com/) / [子版块](https://www.reddit.com/r/AIDungeon/) / [Discord](https://discord.com/invite/HB2YBZYjyf) 或 [Spellbound](https://www.tryspellbound.com/) 或 [FictionLab](https://fictionlab.ai/) / [Discord](https://discord.com/invite/SKcb2C7HjH) - 角色扮演 + 故事聊天机器人 / 无需注册
+* [KoboldAI Web](https://lite.koboldai.net/) - 角色扮演 + 图像生成 / 无需注册 / 无限制 / 部分 NSFW / [Discord](https://discord.com/invite/XuQWadgU9k)
+* [Verba](https://verba.ink/) - 角色扮演 + 图像生成 / 无限制 / [Discord](https://discord.gg/verba)
+* [TavernAI](https://tavernai.net/) - 角色扮演 / 故事聊天机器人 / [Colab](https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb) / [Discord](https://discord.gg/zmK2gmr45t) / [GitHub](https://github.com/TavernAI/TavernAI)
+* [KoboldAI](https://koboldai.com/) - 角色扮演聊天机器人图形界面 / 无需注册 / [Discord](https://discord.com/invite/XuQWadgU9k) / [GitHub](https://github.com/henk717/KoboldAI)
+* [Crossing the Uncanny Valley](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo) - 逼真 AI 语音聊天外观
+* [⁠your ai slop bores me](https://youraislopbores.me/) - 交互式人类 AI 角色扮演 / [Discord](https://discord.gg/aislop)
 * [⁠Lumiverse](https://lumiverse.chat/) - Self-Hosted Roleplaying Models
 * [Marinara Engine](https://github.com/Pasta-Devs/Marinara-Engine) - Self-Hosted Roleplaying Models
 
@@ -157,62 +157,62 @@
 
 ---
 
-* 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - Video Generation Model Leaderboard
-* ⭐ **[⁠Snapgen AI](https://snapgen.ai/app/video-gen/)**, [2](https://geminigen.ai/app/video-gen/) - Veo 3.1 / Sora 2 / Grok / Meta (Image to Video) / Sign-Up / [Discord](https://discord.gg/vJnYe86T8F)
-* ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Veo 3.1 / Veo 3.1 Lite / 50 Credits Daily / Google Sign-Up / [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.labs.whisk) / [Discord](https://discord.com/invite/googlelabs)
-* [Bing Create](https://www.bing.com/images/create/ai-video-generator) - Sora 2 (10 Fast, Unlimited Slow- Per Day) / Image to Video / Sign-Up
-* [Arena](https://arena.ai/?chat-modality=video), [2](https://canaryarena.ai/video) - 2 Daily / Sign-Up / Random Models / End-Watermark / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Design Arena](https://www.designarena.ai/) - Multiple Models / Video Editing / Random Models / Reset Limits / w Temp Mail / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
-* [Wan AI](https://create.wan.video/explore/video/generate?model=wan2.7) - Wan 2.7 / Image to Video / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / [GitHub](https://github.com/Wan-Video/Wan2.1)
-* [Meta AI](https://www.meta.ai/) - Unlimited / Meta Sign-Up
-* [⁠Klipy](https://klipy.com/create/gif-maker/) - Veo 3 / GIF Only / 4s-5s / 4 Daily / Sign-Up
-* [Qwen](https://chat.qwen.ai/) - 5/12 Per Hour / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [AIFreeVideo](https://aifreevideo.com/) - Unlimited / MiniMax Video-01 / Sign-Up
-* [ModelScope Video](https://modelscope.ai/civision/videoGeneration) - Wan 2.2 14B / 3 Daily / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
-* [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0) / 120 Credits Daily
-* [PixVerse](https://pixverse.ai/) - 3 Daily / [Discord](https://discord.com/invite/MXHErdJHMg)
-* [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
-* [FramePack](https://github.com/colinurbs/FramePack-Studio) - Desktop App / Local Models / Requires NVIDIA GPU
+* 🌐 **[VBench](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)** - 视频生成模型排行榜
+* ⭐ **[⁠Snapgen AI](https://snapgen.ai/app/video-gen/)**, [2](https://geminigen.ai/app/video-gen/) - Veo 3.1 / Sora 2 / Grok / Meta（图生视频）/ 需登录 / [Discord](https://discord.gg/vJnYe86T8F)
+* ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Veo 3.1 / Veo 3.1 Lite / 每日50积分 / 需谷歌账号 / [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.labs.whisk) / [Discord](https://discord.com/invite/googlelabs)
+* [Bing Create](https://www.bing.com/images/create/ai-video-generator) - Sora 2（每日10次快速，无限慢速）/ 图生视频 / 需注册
+* [Arena](https://arena.ai/?chat-modality=video), [2](https://canaryarena.ai/video) - 每日2次 / 需注册 / 随机模型 / 无水印 / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [Design Arena](https://www.designarena.ai/) - 多模型 / 视频编辑 / 随机模型 / 重置限制 / 支持临时邮箱 / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [Wan AI](https://create.wan.video/explore/video/generate?model=wan2.7) - Wan 2.7 / 图生视频 / 每日10积分（快速消耗积分，慢速无限） / [GitHub](https://github.com/Wan-Video/Wan2.1)
+* [Meta AI](https://www.meta.ai/) - 无限使用 / 需Meta账号
+* [⁠Klipy](https://klipy.com/create/gif-maker/) - Veo 3 / 仅GIF / 4-5秒 / 每日4次 / 需注册
+* [Qwen](https://chat.qwen.ai/) - 每小时5/12次 / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* [AIFreeVideo](https://aifreevideo.com/) - 无限使用 / MiniMax Video-01 / 需注册
+* [ModelScope Video](https://modelscope.ai/civision/videoGeneration) - Wan 2.2 14B / 每日3次 / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0) / 每日120积分
+* [PixVerse](https://pixverse.ai/) - 每日3次 / [Discord](https://discord.com/invite/MXHErdJHMg)
+* [Genmo](https://www.genmo.ai/) - 每月30次 / [GitHub](https://github.com/genmoai/mochi)
+* [FramePack](https://github.com/colinurbs/FramePack-Studio) - 桌面应用 / 本地模型 / 需NVIDIA显卡
 * [⁠Amuse](https://github.com/saddam213/AmuseAI) - Desktop App / Local Models / [X](https://x.com/Amuse_AI)
-* [Eggnog](https://www.eggnog.ai/) - AI Character Video Remixer + Editor
-* [⁠Pinokio](https://pinokio.co/) - Plugin-Based / Self-Hosted / NVIDIA Required
+* [Eggnog](https://www.eggnog.ai/) - AI角色视频混剪+编辑器
+* [⁠Pinokio](https://pinokio.co/) - 插件式 / 自托管 / 需NVIDIA显卡
 
 ---
 
 # ► 图像生成
 
-* 🌐 **[Arena Text to Image](https://arena.ai/leaderboard/text-to-image)** or **[Arena Editing](https://arena.ai/leaderboard/image-edit)** - Image Gen Benchmarks / 15 Daily / Leaderboards
-* ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Nano Banana Pro / 20+ Per Day (Varies) / Nano Banana 2 / Unlimited / Google Login / [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.labs.whisk) / [Discord](https://discord.com/invite/googlelabs) / [Remove Watermarks](https://banana.ovo.re/)
-* ⭐ **[Google AI Mode](https://google.com/aimode)** / [Discord](https://discord.com/invite/googlelabs) or **[Gemini](https://gemini.google.com/)** / [Discord](https://discord.com/invite/gemini) - Nano Banana 2 / 20 Per Day / Google Login / [Remove Watermarks](https://banana.ovo.re/), [2](https://greasyfork.org/en/scripts/559574) / [Add Features](https://github.com/Nagi-ovo/gemini-voyager)
-* [Snapgen AI](https://geminigen.ai/app/imagen) - Nano Banana Pro / Nano Banana 2 / GPT IMAGE 2 / Sign-Up / [Discord](https://discord.com/invite/vJnYe86T8F)
-* [Arena](https://arena.ai/?mode=direct&chat-modality=image), [2](https://canaryarena.ai/image/direct) - Multiple Generators / Editing / Sign-Up / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [Bing Create](https://www.bing.com/images/create) - Unlimited / GPT Image 1 / Editing / Generating / Sign-Up
-* [Design Arena](https://www.designarena.ai/) - Multiple Generators / Editing / Sign-Up / Random Models / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
-* [Google AI Studio](https://aistudio.google.com/generate-image) - Nano Banana / Google Login / [Discord](https://discord.com/invite/gemini)
-* [⁠DaFreeAI](https://www.dafreeai.site/) - Unlimited / GPT Image 2 / Nano Banana Pro / Discord Sign-Up / [Discord](https://discord.gg/MjMDC3ex)
-* [Perchance](https://perchance.org/ai-photo-generator) / [2](https://perchance.org/ai-text-to-image-generator) - Chroma-Based / Unlimited / [Resources](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [Subreddit](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
-* [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=image&workspace=0) - 120 Credits Daily / Seedream 5.0 lite / Nano Banana / Sign-Up
-* [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours / Editing / Sign-Up / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
-* [Wan AI Image](https://create.wan.video/explore/image/generate?model=wan2.7-pro) - Wan 2.7 Pro / Wan 2.6 / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / Sign-Up
-* [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 1500 Credits Per Day / Sign-Up / [Discord](https://discord.gg/W4Svx2QhHb)
-* [Recraft](https://www.recraft.ai/) - 30 Daily / Sign-Up / [Discord](https://discord.gg/recraft)
-* [Reve Image](https://app.reve.com) - 20 Daily / Editing / Sign-Up / [X](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
-* [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) or [⁠Vheer](https://vheer.com/dashboard/tools/image-to-image) / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j) - Editing / Unlimited / Flux Kontext Dev
-* [⁠PhotoGPT](https://photogpt.io/) - 8 Daily / Multiple Generators / Reset Limits w/ VPN
-* [⁠MAI Playground](https://playground.microsoft.ai/chat) - MAI-Image-2.5 / MAI-Image-2.5 Flash / 10 Daily / Sign-Up
-* [⁠ZonerAI](https://zonerai.com/en/image-editor) - Editing (Sign-Up) + Generating (No Sign-Up) / Unlimited
-* [Meta AI](https://www.meta.ai/) - Generating + Editing / Unlimited / Meta Sign-Up
-* [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
-* [Z-GEN TURBO](https://z-gen-turbo.vercel.app/), [ImageFree](https://imagefree.net/), [Freegen](https://freegen.app/) or [AIGazou](https://muryou-aigazou.com/) / [Discord](https://discord.gg/v6KzUbPeKh) or [AIFreeForever](https://aifreeforever.com/image-generators) - Z-Image Turbo
-* [ERNIE (HF)](https://huggingface.co/spaces/baidu/ERNIE-Image-Turbo) / [2](https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo) - Unlimited / Editing / Sign-Up
-* [LongCat AI](https://longcat.chat/) - 100 Daily / Editing
-* [⁠ChatGPT Image](https://chatgpt.com/images/) - GPT Image 2 / 8 Daily / Sign-Up
-* [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [AIFreeForever](https://aifreeforever.com/image-generators) or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
-* [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / 50 Daily / Sign-Up with Phone # / US Select CA
-* [imgsys](https://imgsys.org/) - Compare Generators / Unlimited / No Direct Mode
-* [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
-* [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
-* [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes / [Discord](https://discord.com/invite/ASbS3EykXm)
+* 🌐 **[Arena Text to Image](https://arena.ai/leaderboard/text-to-image)** or **[Arena Editing](https://arena.ai/leaderboard/image-edit)** - 图像生成基准测试 / 每日15次 / 排行榜
+* ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - Nano Banana Pro / 每日20+次 / 次数不定 / Nano Banana 2 / 无限次 / 需Google登录 / [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.labs.whisk) / [Discord](https://discord.com/invite/googlelabs) / [Remove Watermarks](https://banana.ovo.re/)
+* ⭐ **[Google AI Mode](https://google.com/aimode)** / [Discord](https://discord.com/invite/googlelabs) 或 **[Gemini](https://gemini.google.com/)** / [Discord](https://discord.com/invite/gemini) - Nano Banana 2 / 每日20次 / 需Google登录 / [Remove Watermarks](https://banana.ovo.re/), [2](https://greasyfork.org/en/scripts/559574) / [Add Features](https://github.com/Nagi-ovo/gemini-voyager)
+* [Snapgen AI](https://geminigen.ai/app/imagen) - Nano Banana Pro / Nano Banana 2 / GPT IMAGE 2 / 需注册 / [Discord](https://discord.com/invite/vJnYe86T8F)
+* [Arena](https://arena.ai/?mode=direct&chat-modality=image), [2](https://canaryarena.ai/image/direct) - 多生成器 / 编辑 / 需注册 / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [Bing Create](https://www.bing.com/images/create) - 无限次 / GPT Image 1 / 编辑 / 生成 / 需注册
+* [Design Arena](https://www.designarena.ai/) - 多生成器 / 编辑 / 需注册 / 随机模型 / 重置限制 / 配合临时邮箱 / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
+* [Google AI Studio](https://aistudio.google.com/generate-image) - Nano Banana / 需Google登录 / [Discord](https://discord.com/invite/gemini)
+* [⁠DaFreeAI](https://www.dafreeai.site/) - 无限次 / GPT Image 2 / Nano Banana Pro / 需Discord登录 / [Discord](https://discord.gg/MjMDC3ex)
+* [Perchance](https://perchance.org/ai-photo-generator) / [2](https://perchance.org/ai-text-to-image-generator) - 基于Chroma / 无限次 / [资源](https://perchance.org/perlist) / [Lemmy](https://lemmy.world/u/perchance) / [子版块](https://www.reddit.com/r/perchance/) / [Discord](https://discord.gg/43qAQEVV9a)
+* [Dreamina](https://dreamina.capcut.com/ai-tool/home?type=image&workspace=0) - 每日120积分 / Seedream 5.0 lite / Nano Banana / 需注册
+* [Qwen](https://chat.qwen.ai/) - 每24小时30次 / 编辑 / 需注册 / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
+* [Wan AI Image](https://create.wan.video/explore/image/generate?model=wan2.7-pro) - Wan 2.7 Pro / Wan 2.6 / 每日10积分（快速模式按积分计，慢速模式无限次）/ 需注册
+* [OpenSourceGen](https://opensourcegen.com/) - Hunyuan Image 3.0 / Z-Image Turbo / 每日1500积分 / 需注册 / [Discord](https://discord.gg/W4Svx2QhHb)
+* [Recraft](https://www.recraft.ai/) - 每日30次 / 需注册 / [Discord](https://discord.gg/recraft)
+* [Reve Image](https://app.reve.com) - 每日20次 / 编辑 / 需注册 / [X](https://x.com/reve) / [Discord](https://discord.gg/Nedxp9fYUZ)
+* [TheresAnAIForThat](https://theresanaiforthat.com/@taaft/image-to-image-generator/) 或 [⁠Vheer](https://vheer.com/dashboard/tools/image-to-image) / [X](https://x.com/VheerAI) / [Discord](https://discord.com/invite/33qfQRCp5j) - 编辑 / 无限次 / Flux Kontext Dev
+* [⁠PhotoGPT](https://photogpt.io/) - 每日8次 / 多生成器 / 使用VPN重置限制
+* [⁠MAI Playground](https://playground.microsoft.ai/chat) - MAI-Image-2.5 / MAI-Image-2.5 Flash / 每日10次 / 需注册
+* [⁠ZonerAI](https://zonerai.com/en/image-editor) - 编辑（需注册）+ 生成（无需注册）/ 无限次
+* [Meta AI](https://www.meta.ai/) - 生成 + 编辑 / 无限次 / 需Meta账号注册
+* [ModelScope Images](https://modelscope.ai/civision/imageGeneration) - Qwen Image Edit / Z-Image Turbo / 每日100积分 / 模型消耗积分不同 / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/modelscope.md)
+* [Z-GEN TURBO](https://z-gen-turbo.vercel.app/), [ImageFree](https://imagefree.net/), [Freegen](https://freegen.app/) 或 [AIGazou](https://muryou-aigazou.com/) / [Discord](https://discord.gg/v6KzUbPeKh) 或[AIFreeForever](https://aifreeforever.com/image-generators) - Z-Image Turbo
+* [ERNIE (HF)](https://huggingface.co/spaces/baidu/ERNIE-Image-Turbo) / [2](https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo) - 无限次 / 编辑 / 需注册
+* [LongCat AI](https://longcat.chat/) - 每日100次 / 编辑
+* [⁠ChatGPT Image](https://chatgpt.com/images/) - GPT Image 2 / 每日8次 / 需注册
+* [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), [AIFreeForever](https://aifreeforever.com/image-generators) 或 [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
+* [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / 每日50次 / 需手机号注册 / 美国地区选CA
+* [imgsys](https://imgsys.org/) - 比较生成器 / 无限次 / 无直接模式
+* [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI图像扩展 / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
+* [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D图像生成器
+* [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - 生成交互式场景 / [Discord](https://discord.com/invite/ASbS3EykXm)
 * [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - 错觉艺术生成器 / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 
 ---
