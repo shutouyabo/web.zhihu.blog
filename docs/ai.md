@@ -336,11 +336,11 @@
 
 ---
 
-## ▷ Voice Removal / Separation
+## ▷ 人声分离-音频分离
 
-* 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** - Music & Voice Separation AI Leaderboards
-* ⭐ **[MVSEP](https://mvsep.com/)** - 50 Daily / [Decrease Queue Time](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mvsep-note.md)
-* [Splitter](https://www.bandlab.com/splitter) / Requires Sign-Up
+* 🌐 **[MultiSong Leaderboard](https://mvsep.com/quality_checker/multisong_leaderboard)** -
+* ⭐ **[MVSEP](https://mvsep.com/)** - 每日 50 次 / [Decrease Queue Time](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/mvsep-note.md)
+* [Splitter](https://www.bandlab.com/splitter) / 需注册
 * [VocalRemover](https://vocalremover.org/)
 * [Audacity Effects](https://www.audacityteam.org/download/openvino/) / [GitHub](https://github.com/intel/openvino-plugins-ai-audacity)
 * [Ultimate Vocal Remover](https://ultimatevocalremover.com/) / [Colab](https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb)
@@ -349,9 +349,12 @@
 * [Mazmazika](https://www.mazmazika.com/)
 * [Ezstems](https://ezstems.com/)
 
+- 音乐与人声分离 AI 排行榜
+- 音乐与人声分离 AI 排行榜
+
 ---
 
-# ► [AI Coding Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_ai_tools)
+# ► [AI 编程工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_ai_tools)
 
 ---
 
@@ -366,7 +369,7 @@
 
 ---
 
-# ► AI Tools
+# ► AI 工具
 
 * 🌐 **[AI Price Compare](https://countless.dev/)**, **[LLM Pricing](https://www.llm-prices.com/)** / [GitHub](https://github.com/simonw/llm-prices) or **[PricePerToken](https://pricepertoken.com/)** - AI / LLM API Price Comparisons
 * 🌐 **[sindresorhus&#39;s Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt)** or [Awesome ChatGPT](https://github.com/uhub/awesome-chatgpt) - AI Resources
@@ -388,61 +391,61 @@
 
 ---
 
-## ▷ AI Prompts
+## ▷ AI 提示词
 
-* **Note** - Bypassing chatbot safeguards (aka jailbreaking) is against the TOS of most AI, so use them at your own risk.
-
----
-
-* 🌐 **[L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)** - Jailbreak Prompts / [X](https://x.com/elder_plinius) / [Discord](https://discord.gg/basi)
-* ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - Prompt Directory
-* ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - Prompt Directory
-* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Google Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/introduction), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering) or [Claude Prompts](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview) / [Discord](https://discord.com/invite/6PPFFzqPDZ) - Prompting Guides
-* [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - Prompt Directory
-* [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - Prompt Directory
-* [Jailbreak Listings](https://rentry.org/jb-listing) or [⁠Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - Prompt Directories / Jailbreaks
-* [InjectPrompt Companion](https://companion.injectprompt.com/) - AI Jailbreak Prompt Assistant
-* [⁠Heretic](https://github.com/p-e-w/heretic) - AI Jailbreak / Anti-Censorship Tool / [Discord](https://discord.gg/gdXc48gSyT)
-* [promptfoo](https://www.promptfoo.dev/) - Prompt Playgrounds / [Discord](https://discord.gg/gHPS9jjfbs) / [GitHub](https://github.com/promptfoo/promptfoo)
-* [Tensor Trust](https://tensortrust.ai/) / [GitHub](https://github.com/HumanCompatibleAI/tensor-trust) or [Gandalf](https://gandalf.lakera.ai/) / [GitHub](https://github.com/lakeraai) - Prompting Skill Games
-* [Gobble Bot](https://gobble.bot/) - Generate Text Files for Chatbots
+* **Note** - 绕过聊天机器人安全机制（即越狱）违反大多数 AI 的服务条款，请自行承担风险。
 
 ---
 
-# ► AI Indexes
-
-* ⭐ **[⁠LLM Explorer](https://llm-explorer.com/)**, [Wiki LLM List](https://en.wikipedia.org/wiki/List_of_large_language_models) or [LifeArchitect](https://lifearchitect.ai/models-table/) - LLM Databases / Indexes
-* ⭐ **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI Directory / [Discord](https://discord.gg/WBk4ZDW6A9)
-* ⭐ **[Google Labs](https://labs.google/)** or [Google Labs FX](https://labs.google/fx) - Google AI Experiments / [Subreddit](https://www.reddit.com/r/labsdotgoogle/) / [Discord](https://discord.gg/googlelabs)
-* [Models.dev](https://models.dev/) - AI Model Database / Pricing / [GitHub](https://github.com/anomalyco/models.dev)
-* [YP for AI](https://www.ypforai.com) - AI Directory
-* [LLM Resources Hub](https://llmresourceshub.vercel.app/) - AI Directory
-* [It&#39;s Better With AI](https://itsbetterwithai.com/) - AI Directory
-* [GPT Demo](https://www.gptdemo.net/gpt/search?lg=en&cate=&keywords=&tags=free,&sort=popular) - AI Directory
-* [ArtificialStudio](https://app.artificialstudio.ai/tools) - Multi-Tool Browser AIs / [Discord](https://discord.gg/EdNztJJH6z)
-
----
-
-# ► AI Benchmarks
-
-* 🌐 **[⁠LM Council](https://lmcouncil.ai/benchmarks)** - AI Benchmark Index / Comparisons
-* ⭐ **[Artificial Analysis](https://artificialanalysis.ai/)** - Chatbot, Image, and Video Benchmarks / [X](https://x.com/ArtificialAnlys) / [Discord](https://discord.gg/aAvvUqxGjM)
-* ⭐ **[⁠Kaggle Benchmarks](https://www.kaggle.com/benchmarks)** - Chatbot Leaderboards / Benchmarks
-* ⭐ **[Arena](https://arena.ai/leaderboard)**, [2](https://canaryarena.ai/) - Chatbot Leaderboards / Benchmarks / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
-* [OpenRouter](https://openrouter.ai/rankings) - Chatbot Popularity Rankings / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
-* [SEAL LLM Leaderboards](https://scale.com/leaderboard) - Chatbot Leaderboards
-* [Context Arena](https://contextarena.ai/) - Chatbot Leaderboards / Benchmarks
-* [⁠RankedAGI](https://rankedagi.com/) - Chatbot Leaderboards / Benchmarks
-* [LLM Stats](https://llm-stats.com/) - Chatbot Leaderboard / [X](https://x.com/LlmStats) / [Discord](https://discord.com/invite/RxGUBvE42d)
-* [OpenLM Arena](https://openlm.ai/chatbot-arena/) - Chatbot Leaderboard
-* [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) - Chatbot Leaderboards / Benchmarks
-* [⁠Epoch AI](https://epoch.ai/benchmarks/eci) - Combines Multiple AI Benchmarks
+* 🌐 **[L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)** - 越狱提示词 / [X](https://x.com/elder_plinius) / [Discord](https://discord.gg/basi)
+* ⭐ **[BlackFriday GPTs Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts)** - 提示词目录
+* ⭐ **[Leaked Prompts](https://github.com/linexjlin/GPTs)** - 提示词目录
+* ⭐ **[Prompt Engineering Guide](https://www.promptingguide.ai)** / [Discord](https://discord.gg/FUyz9vPAwf) / [GitHub](https://github.com/dair-ai/Prompt-Engineering-Guide), [Google Whitepaper](https://www.kaggle.com/whitepaper-prompt-engineering), [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering), [LearnPrompting](https://learnprompting.org/docs/introduction), [OpenAI Guide](https://platform.openai.com/docs/guides/prompt-engineering) or [Claude Prompts](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview) / [Discord](https://discord.com/invite/6PPFFzqPDZ) - 提示工程指南
+* [ChatGPT System Prompt](https://github.com/LouisShark/chatgpt_system_prompt) - 提示词目录
+* [The Big Prompt Library](https://github.com/0xeb/TheBigPromptLibrary) - 提示词目录
+* [Jailbreak Listings](https://rentry.org/jb-listing) or [⁠Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) - 提示词目录 / 越狱
+* [InjectPrompt Companion](https://companion.injectprompt.com/) - AI 越狱提示词助手
+* [⁠Heretic](https://github.com/p-e-w/heretic) - AI 越狱 / 反审查工具 / [Discord](https://discord.gg/gdXc48gSyT)
+* [promptfoo](https://www.promptfoo.dev/) - 提示词测试场 / [Discord](https://discord.gg/gHPS9jjfbs) / [GitHub](https://github.com/promptfoo/promptfoo)
+* [Tensor Trust](https://tensortrust.ai/) / [GitHub](https://github.com/HumanCompatibleAI/tensor-trust) or [Gandalf](https://gandalf.lakera.ai/) / [GitHub](https://github.com/lakeraai) - 提示技巧游戏
+* [Gobble Bot](https://gobble.bot/) - 为聊天机器人生成文本文件
 
 ---
 
-## ▷ Specialized Benchmarks
+# ► AI 索引
 
-* ⭐ **[Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)** - VLM Benchmark Leaderboard Aggregator
+* ⭐ **[⁠LLM Explorer](https://llm-explorer.com/)**, [Wiki LLM List](https://en.wikipedia.org/wiki/List_of_large_language_models) or [LifeArchitect](https://lifearchitect.ai/models-table/) - LLM 数据库/索引
+* ⭐ **[FutureTools](https://www.futuretools.io/?pricing-model=free)** - AI 目录 / [Discord](https://discord.gg/WBk4ZDW6A9)
+* ⭐ **[Google Labs](https://labs.google/)** 或 [Google Labs FX](https://labs.google/fx) - Google AI 实验 / [Subreddit](https://www.reddit.com/r/labsdotgoogle/) / [Discord](https://discord.gg/googlelabs)
+* [Models.dev](https://models.dev/) - AI 模型数据库/定价 / [GitHub](https://github.com/anomalyco/models.dev)
+* [YP for AI](https://www.ypforai.com) - AI 目录
+* [LLM Resources Hub](https://llmresourceshub.vercel.app/) - AI 目录
+* [It&#39;s Better With AI](https://itsbetterwithai.com/) - AI 目录
+* [GPT Demo](https://www.gptdemo.net/gpt/search?lg=en&cate=&keywords=&tags=free,&sort=popular) - AI 目录
+* [ArtificialStudio](https://app.artificialstudio.ai/tools) - 多工具浏览器 AI / [Discord](https://discord.gg/EdNztJJH6z)
+
+---
+
+# ► AI 基准测试
+
+* 🌐 **[⁠LM Council](https://lmcouncil.ai/benchmarks)** - AI 基准测试索引 / 对比
+* ⭐ **[Artificial Analysis](https://artificialanalysis.ai/)** - 聊天机器人、图像和视频基准测试 / [X](https://x.com/ArtificialAnlys) / [Discord](https://discord.gg/aAvvUqxGjM)
+* ⭐ **[⁠Kaggle Benchmarks](https://www.kaggle.com/benchmarks)** - 聊天机器人排行榜 / 基准测试
+* ⭐ **[Arena](https://arena.ai/leaderboard)**, [2](https://canaryarena.ai/) - 聊天机器人排行榜 / 基准测试 / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
+* [OpenRouter](https://openrouter.ai/rankings) - 聊天机器人人气排名 / [Discord](https://discord.gg/fVyRaUDgxW) / [GitHub](https://github.com/OpenRouterTeam)
+* [SEAL LLM Leaderboards](https://scale.com/leaderboard) - 聊天机器人排行榜
+* [Context Arena](https://contextarena.ai/) - 聊天机器人排行榜 / 基准测试
+* [⁠RankedAGI](https://rankedagi.com/) - 聊天机器人排行榜 / 基准测试
+* [LLM Stats](https://llm-stats.com/) - 聊天机器人排行榜 / [X](https://x.com/LlmStats) / [Discord](https://discord.com/invite/RxGUBvE42d)
+* [OpenLM Arena](https://openlm.ai/chatbot-arena/) - 聊天机器人排行榜
+* [Wolfram LLM Benchmarking Project](https://www.wolfram.com/llm-benchmarking-project/) - 聊天机器人排行榜 / 基准测试
+* [⁠Epoch AI](https://epoch.ai/benchmarks/eci) - 整合多个 AI 基准测试
+
+---
+
+## ▷ 专项基准测试
+
+* ⭐ **[Open VLM Leaderboard](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard)** - VLM基准测试排行榜聚合器
 * [⁠DesignArena](https://www.designarena.ai/leaderboard/) - AI Design Benchmarks / [X](https://x.com/designarena) / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠EQ-Bench](https://eqbench.com/) - AI Emotional Intelligence Benchmarks / [GitHub](https://github.com/EQ-bench/eqbench3)
 * [⁠IUMB](https://pellaml.github.io/iumb/) - AI Mathematics Benchmarks / Leaderboard
@@ -457,7 +460,7 @@
 
 ---
 
-## ▷ Coding Benchmarks
+## ▷ 编程基准测试
 
 * ⭐ **[SWEBench](https://www.swebench.com/)** - Software Engineering AI Leaderboard / Benchmarks / [GitHub](https://github.com/princeton-nlp/SWE-bench)
 * [WebDev Arena](https://arena.ai/leaderboard/code/webdev) - Coding AI Leaderboard / Benchmarks
@@ -467,27 +470,27 @@
 
 ---
 
-# ► Machine Learning
+# ► 机器学习
 
-* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
-* 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)**, [⁠Awesome LLM Resources](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/) or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning / LLM Resources
-* ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
-* ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
-* ⭐ **[⁠Unsloth](https://unsloth.ai/docs/new/studio)** - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
-* [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM Research Resources
-* [⁠aman.ai](https://aman.ai/) - Artificial Intelligence / Deep Learning Stanford Notes
-* [LLM Visualization](https://bbycroft.net/llm), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [mlsysbook](https://www.mlsysbook.ai/), [⁠Anthropic Courses](https://anthropic.skilljar.com/), [Everything AI/ML](https://viveknaskar.github.io/everything-ai-ml/) / [GitHub](https://github.com/viveknaskar/everything-ai-ml), [ML Visualized](https://ml-visualized.com/) / [GitHub](https://github.com/gavinkhung/machine-learning-visualized) or [LLM Course](https://github.com/mlabonne/llm-course) - Learn Machine Learning
-* [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - ⁠Transformer Visualization
-* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - Machine Learning Problem-Solving Book
-* [Deep ML](https://www.deep-ml.com/) - Solve Machine Learning Problems
-* [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) or [HF Learn](https://huggingface.co/learn) - Machine Learning Guides
-* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Machine Learning Course Notes
-* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code), [DeepLearningWizard](https://www.deeplearningwizard.com/), [DeepCourse](https://arthurdouillard.com/deepcourse/), [UFLDL](http://ufldl.stanford.edu/tutorial/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [DeepLearning.ai](https://www.deeplearning.ai/) or [Practical Deep Learning](https://course.fast.ai/) - Machine / Deep Learning Courses
-* [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) or [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - Machine Learning Courses on YouTube
-* [ModelScope Finetuning](https://modelscope.ai/civision/modelTraining) - Image Gen Model Finetuning / Up to 100 Images Per LoRA
-* [Markdown Web Browser](https://github.com/Dicklesworthstone/markdown_web_browser) - Webpage > Markdown Converter
-* [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
-* [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
-* [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
-* [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
-* [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
+* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - 机器学习框架索引
+* 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)**, [⁠Awesome LLM Resources](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/) 或 [ML Resources](https://ml-resources.vercel.app/) - 机器学习 / LLM 资源
+* ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) 或 [OpenML](https://www.openml.org/) - 机器学习数据集 / 论文
+* ⭐ **[Deep playground](https://playground.tensorflow.org/)** - 神经网络游乐场
+* ⭐ **[⁠Unsloth](https://unsloth.ai/docs/new/studio)** - LLM 微调 / 文本补全 / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://docs.unsloth.ai/get-started/fine-tuning-guide) / [GitHub](https://github.com/unslothai/unsloth)
+* [Awesome Generative AI Guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - LLM 研究资源
+* [⁠aman.ai](https://aman.ai/) - 斯坦福人工智能 / 深度学习笔记
+* [LLM Visualization](https://bbycroft.net/llm), [KO MicroGPT](https://ko-microgpt.vercel.app/) / [GitHub](https://github.com/woduq1414/ko-microgpt), [Machine Learning Roadmap](https://rentry.org/machine-learning-roadmap), [SAAYN](https://spreadsheets-are-all-you-need.ai/), [machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp), [ML Engineering](https://github.com/stas00/ml-engineering), [udlbook](https://udlbook.github.io/udlbook/) / [GitHub](https://github.com/udlbook/udlbook/), [mlsysbook](https://www.mlsysbook.ai/), [⁠Anthropic Courses](https://anthropic.skilljar.com/), [Everything AI/ML](https://viveknaskar.github.io/everything-ai-ml/) / [GitHub](https://github.com/viveknaskar/everything-ai-ml), [ML Visualized](https://ml-visualized.com/) / [GitHub](https://github.com/gavinkhung/machine-learning-visualized) 或 [LLM Course](https://github.com/mlabonne/llm-course) - 学习机器学习
+* [⁠Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - Transformer 可视化
+* [Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf) - 机器学习问题解决书籍
+* [Deep ML](https://www.deep-ml.com/) - 解决机器学习问题
+* [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners), [Beginner Guides](https://microsoft.github.io/generative-ai-for-beginners/) 或 [HF Learn](https://huggingface.co/learn) - 机器学习指南
+* [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - 机器学习课程笔记
+* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code), [DeepLearningWizard](https://www.deeplearningwizard.com/), [DeepCourse](https://arthurdouillard.com/deepcourse/), [UFLDL](http://ufldl.stanford.edu/tutorial/), [IAILab](https://iailab.kaist.ac.kr/teaching/deep-learning), [Handson ML3](https://github.com/ageron/handson-ml3), [DeepLearning.ai](https://www.deeplearning.ai/) 或 [Practical Deep Learning](https://course.fast.ai/) - 机器学习 / 深度学习课程
+* [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) 或 [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) - YouTube 上的机器学习课程
+* [ModelScope Finetuning](https://modelscope.ai/civision/modelTraining) - 图像生成模型微调 / 每个 LoRA 最多 100 张图片
+* [Markdown Web Browser](https://github.com/Dicklesworthstone/markdown_web_browser) - 网页 > Markdown 转换器
+* [DeepSpeed](https://www.deepspeed.ai/) - 深度学习优化库
+* [Netron](https://github.com/lutzroeder/netron) - 神经网络、深度学习和机器学习模型可视化工具
+* [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - 深度学习模型部署工具集 / [GitHub](https://github.com/open-mmlab/mmdeploy)
+* [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - 跨平台 ChatGPT / Gemini UI
+* [Nixified](https://nixified.ai/) - AI 项目的 Nix Flake
