@@ -36,6 +36,9 @@
 * [读者阁](https://duzhege.cn/) - 杂志下载, [读者云网盘](https://yun.duzhege.cn/) - 读者云网盘
 * [苦瓜书盘](https://kgbook.com/) - 苦瓜书盘
 * [熊猫速读](https://qread.xmsoushu.com/), [熊猫搜索导航](https://xmsoushu.com/), [熊猫学术搜索](https://scholar.xmsoushu.com/), [熊猫AI工具](https://ai.xmsoushu.com/), [熊猫PDF工具](https://pdf.xmsoushu.com/)
+* [PDF之家](https://pdfzj.com/) - PDF杂志、PDF图书、PDF漫画免费下载，PDF资源
+
+
 
 ## ▷ 国外图书
 
@@ -79,6 +82,17 @@
 
 ---
 
+## ▷ 工具集合
+
+* **Note** - 工具集合
+
+---
+
+* [AI工具集官网](https://ai-bot.cn/) - 1000+ AI工具集合，国内外AI工具集导航大全
+
+
+---
+
 
 ## ▷ 标准网
 
@@ -101,6 +115,9 @@
 
 * [博客站点列表](https://bf.zzxworld.com/s) - BlogFinder
 * [博友圈](https://www.boyouquan.com/home) - 博客人的朋友圈, [爱吃猫的鱼](https://bf.zzxworld.com/s/1207), [2](https://blog.talen.top/)
+* [集博栈-原中文博客列表导航](https://www.heyblog.net/) - 尝试收集并链接所有的个人博客站点
+
+
 
 ---
 ---
@@ -146,7 +163,7 @@
 ---
 
 
-# ► 全球视频
+# ► 视频 / 音频
 
 ## ▷ 摄像头
 * **Note** - 摄像头
@@ -173,6 +190,15 @@
 
 * [MyRadioBox](https://myradiobox.com/cn) - 在线电台在中国, 直播
 * [中国的广播电台](https://worldradiomap.com/cn/)
+
+---
+
+## ▷ 播客
+* **Note** - 全球播客、中国播客
+
+---
+
+* [中文播客榜](https://xyzrank.com/#/) - 榜单只是一种维度，愿你找到喜欢的节目
 
 
 ---
