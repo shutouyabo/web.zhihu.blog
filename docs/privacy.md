@@ -548,6 +548,8 @@
 * [mobi图书网](https://www.mobitushu.cn/) - mobi电子书资源下载站
 * [搬书匠](http://www.banshujiang.cn/) - 电子书(EBook)
 * [自由图书](https://book5678.com/) - 好书自由读 · 免费电子书下载 · 书单推荐
+* [读者阁](https://duzhege.cn/) - 杂志下载
+* [苦瓜书盘](https://kgbook.com/) - 苦瓜书盘
 
 
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
