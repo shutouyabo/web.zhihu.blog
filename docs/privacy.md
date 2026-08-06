@@ -546,6 +546,7 @@
 
 * [书籍知识库](https://titaniumnetwork.org/services/) - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站
 * [mobi图书网](https://www.mobitushu.cn/) - mobi电子书资源下载站
+* [搬书匠](http://www.banshujiang.cn/) - 电子书(EBook)
 
 
 
