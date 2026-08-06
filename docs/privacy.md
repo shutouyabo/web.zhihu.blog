@@ -29,7 +29,6 @@
 * [freemediaheckyeah](https://fmhy.net/) - freemediaheckyeah
 * [中文：freemediaheckyeah](https://ifmhy.org/zh/) - 中文：互联网上最大的免费资源合集！
 * [欢迎 | FMHY中文站&村长AI工具箱](https://www.cunzhangai.com/) - 欢迎 | FMHY中文站&村长AI工具箱
-* [freemediaheckyeah](https://fmhy.net/) - freemediaheckyeah
 
 ---
 
@@ -151,7 +150,7 @@
 * [黄杰敏的博客](https://www.jiemin.com/)
 * [迷鹿屋 - 一个思想中转站](https://lostdeer.xyz/)
 * [爱吃猫的鱼](https://blog.talen.top/)
-
+* [lcrworld's Blog](https://lcrworld.xyz/)
 
 ---
 ---
