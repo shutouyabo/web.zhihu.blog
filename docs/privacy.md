@@ -12,9 +12,24 @@
 
 
 
-# ► 我的导航
+# ► 导航
+
+## ▷ 我的导航
+
+* **Note** - 我的导航
 
 * [wangbin](https://wangbin.run/) - wangbin.run / [GitHub](https://github.com/shutouyabo)
+
+---
+
+## ▷ 别人的导航
+
+* **Note** - 别人的导航
+
+* [freemediaheckyeah](https://fmhy.net/) - freemediaheckyeah
+* [中文：freemediaheckyeah](https://ifmhy.org/zh/) - 中文：互联网上最大的免费资源合集！
+* [欢迎 | FMHY中文站&村长AI工具箱](https://www.cunzhangai.com/) - 欢迎 | FMHY中文站&村长AI工具箱
+* [freemediaheckyeah](https://fmhy.net/) - freemediaheckyeah
 
 ---
 
@@ -79,6 +94,12 @@
 
 * [123apps](https://123apps.com/cn/) - 123apps 视频、音频、PDF 和文件转换在线工具
 * [🫰Emoji表情符号词典](https://www.emojiall.com/zh-hans) - Emoji大全
+* [飞鱼视频下载助手](https://www.feiyudo.com/) - 视频下载 抖音无水印解析下载
+* [GreenVideo视频下载](https://greenvideo.cc/) - 免费视频下载 抖音无水印视频下载 YouTube油管视频下载
+* [Crx搜搜](https://www.crxsoso.com/) - 一个牛X的扩展和应用商店
+
+
+
 
 
 
@@ -109,9 +130,9 @@
 
 ---
 
-## ▷ 博客
+## ▷ 博客导航
 
-* **Note** - blog
+* **Note** - 博客导航
 
 ---
 
@@ -119,6 +140,17 @@
 * [博友圈](https://www.boyouquan.com/home) - 博客人的朋友圈, [爱吃猫的鱼](https://bf.zzxworld.com/s/1207), [2](https://blog.talen.top/)
 * [集博栈-原中文博客列表导航](https://www.heyblog.net/) - 尝试收集并链接所有的个人博客站点
 
+---
+
+## ▷ 个人博客
+
+* **Note** - 个人blog
+
+---
+
+* [黄杰敏的博客](https://www.jiemin.com/)
+* [迷鹿屋 - 一个思想中转站](https://lostdeer.xyz/)
+* [爱吃猫的鱼](https://blog.talen.top/)
 
 
 ---
@@ -236,3 +268,15 @@
 
 ---
 * [裁判文书网](https://caseopen.org/) - 裁判文书网caseopen.org 直接搜索
+
+
+# ► 论坛
+
+## ▷ 录音机
+* **Note** - 录音机论坛
+
+---
+* [一起哔哔](https://17bb.cn/)
+* [NewsNow | 最热热点](https://top.miyucaicai.cn/)
+
+
