@@ -547,7 +547,7 @@
 * [书籍知识库](https://titaniumnetwork.org/services/) - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站
 * [mobi图书网](https://www.mobitushu.cn/) - mobi电子书资源下载站
 * [搬书匠](http://www.banshujiang.cn/) - 电子书(EBook)
-
+* [自由图书](https://book5678.com/) - 好书自由读 · 免费电子书下载 · 书单推荐
 
 
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
