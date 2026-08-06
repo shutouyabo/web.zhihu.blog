@@ -196,3 +196,12 @@
 ---
 * [爱淘数字资源馆](https://www.1itao.com/) - 搜集整理优质资源
 * [ahhhhfs - A姐分享](https://www.ahhhhfs.com/) - AI 工具、开源项目与效率软件
+
+
+# ► 裁判文书网
+
+## ▷ 裁判文书网
+* **Note** - 裁判文书网
+
+---
+* [裁判文书网](https://caseopen.org/) - 裁判文书网caseopen.org 直接搜索
