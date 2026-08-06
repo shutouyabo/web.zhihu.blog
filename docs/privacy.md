@@ -570,8 +570,8 @@
 
 ---
 
-* [标准网](https://www.biaozhun.org/) - 标准网-免费国家标准查询、下载网站
-* [GB 9706.218-2021 医用电气设备 第2-18部分：内窥镜设备的基本安全和基本性能专用要求](https://www.bilibili.com/video/BV13G411L7Jg/?vd_source=60c77fe9fe479a1a917d4063ac5e3d81) - GB 9706.218-2021 医用电气设备 第2-18部分：内窥镜设备的基本安全和基本性能专用要求
+* [标准网](https://www.biaozhun.org/) - 免费国家标准查询、下载网站
+* [GB 9706.218-2021](https://www.bilibili.com/video/BV13G411L7Jg/?vd_source=60c77fe9fe479a1a917d4063ac5e3d81) - GB 9706.218-2021 医用电气设备 第2-18部分：内窥镜设备的基本安全和基本性能专用要求
 * []() -
 * []() -
 * []() -
@@ -587,9 +587,9 @@
 
 ---
 
-* [蒸汽游戏宝库](https://www.steambk.com/) - 蒸汽游戏宝库 - 高质量Steam单机游戏下载站
-* [老男人游戏网](https://www.oldmanemu.org/) - 老男人游戏网 | oldmanEmu.org
-* [老奶奶游戏网](https://oldwomanemu.com/) - 老奶奶游戏网 | oldwomanemu.com
+* [蒸汽游戏宝库](https://www.steambk.com/) - 高质量Steam单机游戏下载站
+* [老男人游戏网](https://www.oldmanemu.org/) - oldmanEmu.org
+* [老奶奶游戏网](https://oldwomanemu.com/) - oldwomanemu.com
 * []() -
 
 
