@@ -65,7 +65,7 @@
 
 
 ---
-
+# ► 学习 / 工具
 
 ## ▷ 学习
 
@@ -75,10 +75,20 @@
 
 * [iFixit：免费修理手册](https://zh.ifixit.com/) - 免费维修指南（报废不应是最终的归宿
 通过高质量的维修零件和工具以及强大的社区专业知识，获得你所需要的指导。）
+* [CarOBook车主随身手册](https://www.carobook.com/) - 汽车说明书
 * []() -
 * []() -
 * []() -
 * []() -
+* []() -
+
+## ▷ 工具
+
+* **Note** - 工具
+
+---
+
+* [123apps](https://123apps.com/cn/) - 123apps 视频、音频、PDF 和文件转换在线工具
 * []() -
 * []() -
 
@@ -139,8 +149,8 @@
 
 ---
 
-* [itboos/typing-word:Typing words](https://github.com/itboos/typing-word) - | 背单词 | 学习英语 | 练习文章
-* []() -
+* [Github:typing-word](https://github.com/itboos/typing-word) - | 背单词 | 学习英语 | 练习文章 , [网站:typing-word](https://typing-word.wangbin.run/)
+* [Github:english-note](https://github.com/hzpt-inet-club/english-note) -Github英语语法 , [网站:英语语法](https://hzpt-inet-club.github.io/english-note/)
 * []() -
 
 ---
@@ -221,5 +231,5 @@
 
 ---
 * [爱淘数字资源馆](https://www.1itao.com/) - 搜集整理优质资源
-* []() -
+* [ahhhhfs - A姐分享](https://www.ahhhhfs.com/) - AI 工具、开源项目与效率软件
 * []() -
