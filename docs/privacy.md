@@ -38,6 +38,21 @@
 * [熊猫速读](https://qread.xmsoushu.com/), [熊猫搜索导航](https://xmsoushu.com/), [熊猫学术搜索](https://scholar.xmsoushu.com/), [熊猫AI工具](https://ai.xmsoushu.com/), [熊猫PDF工具](https://pdf.xmsoushu.com/)
 * []() -
 
+## ▷ 国外图书
+
+* **Note** - 电子书下载、杂志下载
+
+---
+
+* [Z-Library](https://zh.z-lib.gd/) - Z-Library 世界上最大的电子图书馆。自由访问知识和文化。
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+
 ## ▷ kindle
 
 * **Note** - kindle
@@ -132,7 +147,7 @@
 ---
 
 
-# ► 有趣的
+# ► 全球视频
 
 ## ▷ 摄像头
 * **Note** - 摄像头
@@ -141,6 +156,16 @@
 
 * [全球高清实况摄像头](https://www.skylinewebcams.com/) - SkylineWebcams
 * []() -
+* []() -
+* []() -
+* []() -
+
+## ▷ 全球电视
+* **Note** - 全球电视
+
+---
+
+* [Famelack](https://famelack.com/) - 全球免费电视直播和在线广播
 * []() -
 * []() -
 * []() -
