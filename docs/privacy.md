@@ -550,11 +550,35 @@
 * [自由图书](https://book5678.com/) - 好书自由读 · 免费电子书下载 · 书单推荐
 * [读者阁](https://duzhege.cn/) - 杂志下载, [读者云网盘](https://yun.duzhege.cn/) - 读者云网盘
 * [苦瓜书盘](https://kgbook.com/) - 苦瓜书盘
-
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
 
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [Phantom](https://phantom.lol/) / [Discord](https://discord.com/invite/goshadow)
 * [Reflect4](https://reflect4.me/), [CroxyProxy](https://www.croxyproxy.com/) or [Blockaway](https://www.blockaway.net/)
+
+
+## ▷ 标准网
+
+* **Note** - 国标、省标
+
+---
+
+* [标准网](https://www.biaozhun.org/) - 标准网-免费国家标准查询、下载网站
+* [GB 9706.218-2021 医用电气设备 第2-18部分：内窥镜设备的基本安全和基本性能专用要求](https://www.bilibili.com/video/BV13G411L7Jg/?vd_source=60c77fe9fe479a1a917d4063ac5e3d81) - GB 9706.218-2021 医用电气设备 第2-18部分：内窥镜设备的基本安全和基本性能专用要求
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
+* []() -
 
 
 ## ▷ 游戏
