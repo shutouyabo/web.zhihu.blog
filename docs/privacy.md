@@ -540,7 +540,7 @@
 
 ## ▷ 图书
 
-* **Note** - Keep in mind many proxy sites log info like IP address, sites visited, etc. They're useful for unblocking sites, but not very useful for privacy.
+* **Note** - 电子书下载、杂志下载
 
 ---
 
@@ -548,18 +548,27 @@
 * [mobi图书网](https://www.mobitushu.cn/) - mobi电子书资源下载站
 * [搬书匠](http://www.banshujiang.cn/) - 电子书(EBook)
 * [自由图书](https://book5678.com/) - 好书自由读 · 免费电子书下载 · 书单推荐
-* [读者阁](https://duzhege.cn/) - 杂志下载
+* [读者阁](https://duzhege.cn/) - 杂志下载, [读者云网盘](https://yun.duzhege.cn/) - 读者云网盘
 * [苦瓜书盘](https://kgbook.com/) - 苦瓜书盘
 
 
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
-* [ProxyOf2](https://proxyof2.com/)
 * [Phantom](https://phantom.lol/) / [Discord](https://discord.com/invite/goshadow)
 * [Reflect4](https://reflect4.me/), [CroxyProxy](https://www.croxyproxy.com/) or [Blockaway](https://www.blockaway.net/)
-* [ProxyPal](https://proxypal.net/) / [Telegram](https://t.me/PlainProxies)
-* [Proxyium](https://proxyium.com/)
-* [Startpage](https://www.startpage.com/) - Use Anon View / [Subreddit](https://www.reddit.com/r/StartpageSearch/)
-* [Google Translate](https://translate.google.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/google-translate-note.md)
-* [Proxy Checker](https://proxy-checker.net/), [proxy-scraper](https://github.com/iw4p/proxy-scraper) or [proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Proxy Scrapers / Checkers
-* [CheckSocks5](https://checksocks5.com/) - SOCKS5 Proxy Checker
-* [Knaben.info](https://knaben.info/) - Torrent Site Proxies
+
+
+## ▷ 游戏
+
+* **Note** - 游戏下载
+
+---
+
+* [蒸汽游戏宝库](https://www.steambk.com/) - 蒸汽游戏宝库 - 高质量Steam单机游戏下载站
+* [老男人游戏网](https://www.oldmanemu.org/) - 老男人游戏网 | oldmanEmu.org
+* [老奶奶游戏网](https://oldwomanemu.com/) - 老奶奶游戏网 | oldwomanemu.com
+* []() -
+
+
+
+
+
