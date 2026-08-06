@@ -35,7 +35,7 @@
 * [自由图书](https://book5678.com/) - 好书自由读 · 免费电子书下载 · 书单推荐
 * [读者阁](https://duzhege.cn/) - 杂志下载, [读者云网盘](https://yun.duzhege.cn/) - 读者云网盘
 * [苦瓜书盘](https://kgbook.com/) - 苦瓜书盘
-* [熊猫速读](https://qread.xmsoushu.com/)
+* [熊猫速读](https://qread.xmsoushu.com/), [熊猫搜索导航](https://xmsoushu.com/), [熊猫学术搜索](https://scholar.xmsoushu.com/), [熊猫AI工具](https://ai.xmsoushu.com/), [熊猫PDF工具](https://pdf.xmsoushu.com/)
 * []() -
 
 ## ▷ kindle
