@@ -37,7 +37,7 @@
 * [苦瓜书盘](https://kgbook.com/) - 苦瓜书盘
 * [熊猫速读](https://qread.xmsoushu.com/), [熊猫搜索导航](https://xmsoushu.com/), [熊猫学术搜索](https://scholar.xmsoushu.com/), [熊猫AI工具](https://ai.xmsoushu.com/), [熊猫PDF工具](https://pdf.xmsoushu.com/)
 * [PDF之家](https://pdfzj.com/) - PDF杂志、PDF图书、PDF漫画免费下载，PDF资源
-
+* [🔗电子书杂志网站 | 资源收藏夹](https://zyscj.com/zy/book/ebook.html)
 
 
 ## ▷ 国外图书
@@ -78,6 +78,8 @@
 ---
 
 * [123apps](https://123apps.com/cn/) - 123apps 视频、音频、PDF 和文件转换在线工具
+* [🫰Emoji表情符号词典](https://www.emojiall.com/zh-hans) - Emoji大全
+
 
 
 ---
@@ -143,6 +145,9 @@
 
 * [Github:typing-word](https://github.com/itboos/typing-word) - | 背单词 | 学习英语 | 练习文章 , [网站:typing-word](https://typing-word.wangbin.run/)
 * [Github:english-note](https://github.com/hzpt-inet-club/english-note) -Github英语语法 , [网站:英语语法](https://hzpt-inet-club.github.io/english-note/)
+* [Github:TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 生活学习工作全能用的上！ , [网站:2026年全网收集10000+ telegram频道推荐](https://itgoyo.github.io/)
+
+
 
 ---
 
