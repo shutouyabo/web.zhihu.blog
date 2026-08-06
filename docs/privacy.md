@@ -545,6 +545,10 @@
 ---
 
 * [书籍知识库](https://titaniumnetwork.org/services/) - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站
+* [mobi图书网](https://www.mobitushu.cn/) - mobi电子书资源下载站
+
+
+
 * [SSLSecureProxy](https://www.sslsecureproxy.com/), [2](https://www.4everproxy.com/), [3](https://www.hideip.co/)
 * [ProxyOf2](https://proxyof2.com/)
 * [Phantom](https://phantom.lol/) / [Discord](https://discord.com/invite/goshadow)
