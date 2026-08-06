@@ -36,7 +36,6 @@
 * [读者阁](https://duzhege.cn/) - 杂志下载, [读者云网盘](https://yun.duzhege.cn/) - 读者云网盘
 * [苦瓜书盘](https://kgbook.com/) - 苦瓜书盘
 * [熊猫速读](https://qread.xmsoushu.com/), [熊猫搜索导航](https://xmsoushu.com/), [熊猫学术搜索](https://scholar.xmsoushu.com/), [熊猫AI工具](https://ai.xmsoushu.com/), [熊猫PDF工具](https://pdf.xmsoushu.com/)
-* []() -
 
 ## ▷ 国外图书
 
@@ -45,13 +44,6 @@
 ---
 
 * [Z-Library](https://zh.z-lib.gd/) - Z-Library 世界上最大的电子图书馆。自由访问知识和文化。
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
 
 ## ▷ kindle
 
@@ -60,7 +52,6 @@
 ---
 
 * [Send to Kindle](https://www.amazon.com/gp/sendtokindle) - 发送至 Kindle‌（用于将电子书、文档或网页内容传输并同步到你的Kindle设备或阅读应用中）
-* []() -
 
 
 
@@ -76,11 +67,6 @@
 * [iFixit：免费修理手册](https://zh.ifixit.com/) - 免费维修指南（报废不应是最终的归宿
 通过高质量的维修零件和工具以及强大的社区专业知识，获得你所需要的指导。）
 * [CarOBook车主随身手册](https://www.carobook.com/) - 汽车说明书
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
 
 ## ▷ 工具
 
@@ -89,8 +75,6 @@
 ---
 
 * [123apps](https://123apps.com/cn/) - 123apps 视频、音频、PDF 和文件转换在线工具
-* []() -
-* []() -
 
 
 ---
@@ -106,11 +90,6 @@
 * [GB 9706.218-2021](https://www.bilibili.com/video/BV13G411L7Jg/?vd_source=60c77fe9fe479a1a917d4063ac5e3d81) - GB 9706.218-2021 医用电气设备 第2-18部分：内窥镜设备的基本安全和基本性能专用要求
 * [全国标准信息公共服务平台](https://std.samr.gov.cn/) - 国家标准 行业标准 地方标准 团体标准 企业标准 国际标准 国外标准
 * [准行天下](https://www.bzchaxun.com/) - 国内外正版标准在线查询下载以及标准服务提供商，国家标准/行业标准/国际标准/国外标准/地方标准等标准数据
-* []() -
-* []() -
-* []() -
-* []() -
-* []() -
 
 ---
 
@@ -122,7 +101,6 @@
 
 * [博客站点列表](https://bf.zzxworld.com/s) - BlogFinder
 * [博友圈](https://www.boyouquan.com/home) - 博客人的朋友圈, [爱吃猫的鱼](https://bf.zzxworld.com/s/1207), [2](https://blog.talen.top/)
-* []() -
 
 ---
 ---
@@ -137,9 +115,6 @@
 
 * [Docker项目 收藏](https://prclub.notion.site/Docker-827eaa2cc9a140538fc4ae5f15a74e95) - 欢迎来到好玩的Docker项目
 * [推荐12款好用好玩的docker开源项目](https://blog.kejilion.pro/dockeapp/) - 生活学习工作全能用的上！
-* []() -
-* []() -
-* []() -
 
 ---
 
@@ -151,7 +126,6 @@
 
 * [Github:typing-word](https://github.com/itboos/typing-word) - | 背单词 | 学习英语 | 练习文章 , [网站:typing-word](https://typing-word.wangbin.run/)
 * [Github:english-note](https://github.com/hzpt-inet-club/english-note) -Github英语语法 , [网站:英语语法](https://hzpt-inet-club.github.io/english-note/)
-* []() -
 
 ---
 
@@ -168,7 +142,6 @@
 * [蒸汽游戏宝库](https://www.steambk.com/) - 高质量Steam单机游戏下载站
 * [老男人游戏网](https://www.oldmanemu.org/) - oldmanEmu.org
 * [老奶奶游戏网](https://oldwomanemu.com/) - oldwomanemu.com
-* []() -
 
 ---
 
@@ -181,10 +154,6 @@
 ---
 
 * [全球高清实况摄像头](https://www.skylinewebcams.com/) - SkylineWebcams
-* []() -
-* []() -
-* []() -
-* []() -
 
 ---
 
@@ -194,8 +163,6 @@
 ---
 
 * [Famelack](https://famelack.com/) - 全球免费电视直播和在线广播
-* []() -
-* []() -
 
 ---
 
@@ -206,7 +173,6 @@
 
 * [MyRadioBox](https://myradiobox.com/cn) - 在线电台在中国, 直播
 * [中国的广播电台](https://worldradiomap.com/cn/)
-* []() -
 
 
 ---
@@ -219,8 +185,6 @@
 
 ---
 * [激光点火器](https://laserigniter.com/zh-CN/?v=d1e7fd6e6a2a)
-* []() -
-* []() -
 
 
 
@@ -232,4 +196,3 @@
 ---
 * [爱淘数字资源馆](https://www.1itao.com/) - 搜集整理优质资源
 * [ahhhhfs - A姐分享](https://www.ahhhhfs.com/) - AI 工具、开源项目与效率软件
-* []() -
