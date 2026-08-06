@@ -66,6 +66,7 @@
 
 ---
 
+
 ## ▷ 学习
 
 * **Note** - 学习技能
@@ -114,16 +115,31 @@
 * []() -
 
 ---
+---
 
-## ▷ 项目
+# ► 项目
 
-* **Note** - 游戏下载
+## ▷ docker项目
+
+* **Note** - docker项目
 
 ---
 
 * [Docker项目 收藏](https://prclub.notion.site/Docker-827eaa2cc9a140538fc4ae5f15a74e95) - 欢迎来到好玩的Docker项目
 * [推荐12款好用好玩的docker开源项目](https://blog.kejilion.pro/dockeapp/) - 生活学习工作全能用的上！
 * []() -
+* []() -
+* []() -
+
+---
+
+## ▷ Github项目
+
+* **Note** - Github项目
+
+---
+
+* [itboos/typing-word:Typing words](https://github.com/itboos/typing-word) - | 背单词 | 学习英语 | 练习文章
 * []() -
 * []() -
 
