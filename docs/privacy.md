@@ -16,14 +16,12 @@
 
 ## ▷ 我的导航
 
-* **Note** - 我的导航
 * [wangbin](https://wangbin.run/) - wangbin.run / [GitHub](https://github.com/shutouyabo)
 
 ---
 
 ## ▷ 别人的导航
 
-* **Note** - 别人的导航
 * [freemediaheckyeah](https://fmhy.net/) - freemediaheckyeah
 * [中文：freemediaheckyeah](https://ifmhy.org/zh/) - 中文：互联网上最大的免费资源合集！
 * [欢迎 | FMHY中文站&amp;村长AI工具箱](https://www.cunzhangai.com/) - 欢迎 | FMHY中文站&村长AI工具箱
@@ -36,9 +34,6 @@
 
 ## ▷ 图书
 
-* **Note** - 电子书下载、杂志下载
-
----
 
 * [书籍知识库](https://titaniumnetwork.org/services/) - 优质mobi,azw3,TXT,PDF,epub格式电子书分享站
 * [mobi图书网](https://www.mobitushu.cn/) - mobi电子书资源下载站
@@ -54,9 +49,6 @@
 
 ## ▷ 国外图书
 
-* **Note** - 电子书下载、杂志下载
-
----
 
 * [Z-Library](https://zh.z-lib.gd/) - Z-Library 世界上最大的电子图书馆。自由访问知识和文化。
 
@@ -64,9 +56,6 @@
 
 ## ▷ kindle
 
-* **Note** - kindle
-
----
 
 * [Send to Kindle](https://www.amazon.com/gp/sendtokindle) - 发送至 Kindle‌（用于将电子书、文档或网页内容传输并同步到你的Kindle设备或阅读应用中）
 
@@ -78,9 +67,6 @@
 
 ## ▷ 学习
 
-* **Note** - 学习技能
-
----
 
 * [iFixit：免费修理手册](https://zh.ifixit.com/) - 免费维修指南（报废不应是最终的归宿
   通过高质量的维修零件和工具以及强大的社区专业知识，获得你所需要的指导。）
@@ -90,9 +76,6 @@
 
 ## ▷ 工具
 
-* **Note** - 工具
-
----
 
 * [123apps](https://123apps.com/cn/) - 123apps 视频、音频、PDF 和文件转换在线工具
 * [🫰Emoji表情符号词典](https://www.emojiall.com/zh-hans) - Emoji大全
@@ -104,9 +87,6 @@
 
 ## ▷ 工具集合
 
-* **Note** - 工具集合
-
----
 
 * [AI工具集官网](https://ai-bot.cn/) - 1000+ AI工具集合，国内外AI工具集导航大全
 
@@ -114,9 +94,6 @@
 
 ## ▷ 标准网
 
-* **Note** - 国家、行业、团体、企业、各类标准分享平台
-
----
 
 * [标准网](https://www.biaozhun.org/) - 免费国家标准查询、下载网站
 * [GB 9706.218-2021](https://www.bilibili.com/video/BV13G411L7Jg/?vd_source=60c77fe9fe479a1a917d4063ac5e3d81) - GB 9706.218-2021 医用电气设备 第2-18部分：内窥镜设备的基本安全和基本性能专用要求
@@ -127,9 +104,6 @@
 
 ## ▷ 博客导航
 
-* **Note** - 博客导航
-
----
 
 * [博客站点列表](https://bf.zzxworld.com/s) - BlogFinder
 * [博友圈](https://www.boyouquan.com/home) - 博客人的朋友圈, [爱吃猫的鱼](https://bf.zzxworld.com/s/1207), [2](https://blog.talen.top/)
@@ -139,9 +113,6 @@
 
 ## ▷ 个人博客
 
-* **Note** - 个人blog
-
----
 
 * [黄杰敏的博客](https://www.jiemin.com/)
 * [迷鹿屋 - 一个思想中转站](https://lostdeer.xyz/)
@@ -156,9 +127,6 @@
 
 ## ▷ docker项目
 
-* **Note** - docker项目
-
----
 
 * [Docker项目 收藏](https://prclub.notion.site/Docker-827eaa2cc9a140538fc4ae5f15a74e95) - 欢迎来到好玩的Docker项目
 * [推荐12款好用好玩的docker开源项目](https://blog.kejilion.pro/dockeapp/) - 生活学习工作全能用的上！
@@ -167,9 +135,6 @@
 
 ## ▷ Github项目
 
-* **Note** - Github项目
-
----
 
 * [Github:typing-word](https://github.com/itboos/typing-word) - | 背单词 | 学习英语 | 练习文章 , [网站:typing-word](https://typing-word.wangbin.run/)
 * [Github:english-note](https://github.com/hzpt-inet-club/english-note) -Github英语语法 , [网站:英语语法](https://hzpt-inet-club.github.io/english-note/)
@@ -179,9 +144,6 @@
 
 ## ▷ 游戏
 
-* **Note** - 游戏下载
-
----
 
 * [蒸汽游戏宝库](https://www.steambk.com/) - 高质量Steam单机游戏下载站
 * [老男人游戏网](https://www.oldmanemu.org/) - oldmanEmu.org
@@ -195,9 +157,6 @@
 
 ## ▷ 摄像头
 
-* **Note** - 摄像头
-
----
 
 * [全球高清实况摄像头](https://www.skylinewebcams.com/) - SkylineWebcams
 
@@ -205,9 +164,6 @@
 
 ## ▷ 全球电视
 
-* **Note** - 全球电视
-
----
 
 * [Famelack](https://famelack.com/) - 全球免费电视直播和在线广播
 
@@ -215,9 +171,6 @@
 
 ## ▷ 电台
 
-* **Note** - 全球电台、中国电台
-
----
 
 * [MyRadioBox](https://myradiobox.com/cn) - 在线电台在中国, 直播
 * [中国的广播电台](https://worldradiomap.com/cn/)
@@ -226,9 +179,6 @@
 
 ## ▷ 播客
 
-* **Note** - 全球播客、中国播客
-
----
 
 * [中文播客榜](https://xyzrank.com/#/) - 榜单只是一种维度，愿你找到喜欢的节目
 
@@ -240,9 +190,6 @@
 
 ## ▷ 有趣的购物网站
 
-* **Note** - 购物
-
----
 
 * [激光点火器](https://laserigniter.com/zh-CN/?v=d1e7fd6e6a2a)
 
@@ -254,9 +201,6 @@
 
 ## ▷ 虚拟产品网站
 
-* **Note** - 虚拟产品网站
-
----
 
 * [爱淘数字资源馆](https://www.1itao.com/) - 搜集整理优质资源
 * [ahhhhfs - A姐分享](https://www.ahhhhfs.com/) - AI 工具、开源项目与效率软件
@@ -269,9 +213,6 @@
 
 ## ▷ 裁判文书网
 
-* **Note** - 裁判文书网
-
----
 
 * [裁判文书网](https://caseopen.org/) - 裁判文书网caseopen.org 直接搜索
 
@@ -283,9 +224,6 @@
 
 ## ▷ 录音机
 
-* **Note** - 录音机论坛
-
----
 
 * [一起哔哔](https://17bb.cn/)
 * [NewsNow | 最热热点](https://top.miyucaicai.cn/)
