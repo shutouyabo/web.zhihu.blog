@@ -1,23 +1,22 @@
 ---
-
-
 ---
+---
+
 **[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
 
 ---
 
 ---
 
----
-
-
-
 # ► 导航
+
+* **Note** - 将任何个人或机密信息上传到基于云的 AI 从来都不是一个好主意，因为许多 AI 会使用你的提示词进行数据收集或训练。如果你注重隐私，最好在本地运行 LLM。如果某个网站没有明确说明需要注册，你可以在不登录的情况下使用它，但会面临更严格的限制，并且可用的模型也更少。
+
+---
 
 ## ▷ 我的导航
 
 * **Note** - 我的导航
-
 * [wangbin](https://wangbin.run/) - wangbin.run / [GitHub](https://github.com/shutouyabo)
 
 ---
@@ -25,17 +24,15 @@
 ## ▷ 别人的导航
 
 * **Note** - 别人的导航
-
 * [freemediaheckyeah](https://fmhy.net/) - freemediaheckyeah
 * [中文：freemediaheckyeah](https://ifmhy.org/zh/) - 中文：互联网上最大的免费资源合集！
-* [欢迎 | FMHY中文站&村长AI工具箱](https://www.cunzhangai.com/) - 欢迎 | FMHY中文站&村长AI工具箱
+* [欢迎 | FMHY中文站&amp;村长AI工具箱](https://www.cunzhangai.com/) - 欢迎 | FMHY中文站&村长AI工具箱
 
 ---
-
----
-
 
 # ► 电子书
+
+---
 
 ## ▷ 图书
 
@@ -53,6 +50,7 @@
 * [PDF之家](https://pdfzj.com/) - PDF杂志、PDF图书、PDF漫画免费下载，PDF资源
 * [🔗电子书杂志网站 | 资源收藏夹](https://zyscj.com/zy/book/ebook.html)
 
+---
 
 ## ▷ 国外图书
 
@@ -62,6 +60,8 @@
 
 * [Z-Library](https://zh.z-lib.gd/) - Z-Library 世界上最大的电子图书馆。自由访问知识和文化。
 
+---
+
 ## ▷ kindle
 
 * **Note** - kindle
@@ -70,10 +70,11 @@
 
 * [Send to Kindle](https://www.amazon.com/gp/sendtokindle) - 发送至 Kindle‌（用于将电子书、文档或网页内容传输并同步到你的Kindle设备或阅读应用中）
 
+---
 
+# ► 学习 / 工具
 
 ---
-# ► 学习 / 工具
 
 ## ▷ 学习
 
@@ -82,8 +83,10 @@
 ---
 
 * [iFixit：免费修理手册](https://zh.ifixit.com/) - 免费维修指南（报废不应是最终的归宿
-通过高质量的维修零件和工具以及强大的社区专业知识，获得你所需要的指导。）
+  通过高质量的维修零件和工具以及强大的社区专业知识，获得你所需要的指导。）
 * [CarOBook车主随身手册](https://www.carobook.com/) - 汽车说明书
+
+---
 
 ## ▷ 工具
 
@@ -97,11 +100,6 @@
 * [GreenVideo视频下载](https://greenvideo.cc/) - 免费视频下载 抖音无水印视频下载 YouTube油管视频下载
 * [Crx搜搜](https://www.crxsoso.com/) - 一个牛X的扩展和应用商店
 
-
-
-
-
-
 ---
 
 ## ▷ 工具集合
@@ -112,9 +110,7 @@
 
 * [AI工具集官网](https://ai-bot.cn/) - 1000+ AI工具集合，国内外AI工具集导航大全
 
-
 ---
-
 
 ## ▷ 标准网
 
@@ -150,12 +146,13 @@
 * [黄杰敏的博客](https://www.jiemin.com/)
 * [迷鹿屋 - 一个思想中转站](https://lostdeer.xyz/)
 * [爱吃猫的鱼](https://blog.talen.top/)
-* [lcrworld's Blog](https://lcrworld.xyz/)
+* [lcrworld&#39;s Blog](https://lcrworld.xyz/)
 
----
 ---
 
 # ► 项目
+
+---
 
 ## ▷ docker项目
 
@@ -178,13 +175,7 @@
 * [Github:english-note](https://github.com/hzpt-inet-club/english-note) -Github英语语法 , [网站:英语语法](https://hzpt-inet-club.github.io/english-note/)
 * [Github:TelegramGroup](https://github.com/itgoyo/TelegramGroup) - 生活学习工作全能用的上！ , [网站:2026年全网收集10000+ telegram频道推荐](https://itgoyo.github.io/)
 
-
-
 ---
-
-
-
-
 
 ## ▷ 游戏
 
@@ -198,10 +189,12 @@
 
 ---
 
-
 # ► 视频 / 音频
 
+---
+
 ## ▷ 摄像头
+
 * **Note** - 摄像头
 
 ---
@@ -211,6 +204,7 @@
 ---
 
 ## ▷ 全球电视
+
 * **Note** - 全球电视
 
 ---
@@ -220,6 +214,7 @@
 ---
 
 ## ▷ 电台
+
 * **Note** - 全球电台、中国电台
 
 ---
@@ -230,52 +225,69 @@
 ---
 
 ## ▷ 播客
+
 * **Note** - 全球播客、中国播客
 
 ---
 
 * [中文播客榜](https://xyzrank.com/#/) - 榜单只是一种维度，愿你找到喜欢的节目
 
-
----
 ---
 
 # ► 购物网
 
+---
+
 ## ▷ 有趣的购物网站
+
 * **Note** - 购物
 
 ---
+
 * [激光点火器](https://laserigniter.com/zh-CN/?v=d1e7fd6e6a2a)
 
-
+---
 
 # ► 虚拟产品网站
 
+---
+
 ## ▷ 虚拟产品网站
+
 * **Note** - 虚拟产品网站
 
 ---
+
 * [爱淘数字资源馆](https://www.1itao.com/) - 搜集整理优质资源
 * [ahhhhfs - A姐分享](https://www.ahhhhfs.com/) - AI 工具、开源项目与效率软件
 
+---
 
 # ► 裁判文书网
 
+---
+
 ## ▷ 裁判文书网
+
 * **Note** - 裁判文书网
 
 ---
+
 * [裁判文书网](https://caseopen.org/) - 裁判文书网caseopen.org 直接搜索
 
+---
 
 # ► 论坛
 
+---
+
 ## ▷ 录音机
+
 * **Note** - 录音机论坛
 
 ---
+
 * [一起哔哔](https://17bb.cn/)
 * [NewsNow | 最热热点](https://top.miyucaicai.cn/)
 
-
+---
